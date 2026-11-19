@@ -1,0 +1,73 @@
+"gene","LPS_dCt","PBM_dCt","class","rev"
+"ACVR1",0.0779999999999994,-0.404500000000002,"PBM restores LPS-downregulated genes",TRUE
+"BMP1",-1.331,0.68,"PBM suppresses LPS-upregulated genes",TRUE
+"BMP4",-0.332000000000001,0.698999999999998,"PBM suppresses LPS-upregulated genes",TRUE
+"BMP5",0.126999999999995,-0.244,"PBM restores LPS-downregulated genes",TRUE
+"BMPR1B",0.123500000000003,-0.1785,"PBM restores LPS-downregulated genes",TRUE
+"CD36",3.8075,-0.786999999999999,"PBM restores LPS-downregulated genes",TRUE
+"COL14A1",0.545500000000001,-1.1275,"PBM restores LPS-downregulated genes",TRUE
+"COL1A1",0.113,-0.7685,"PBM restores LPS-downregulated genes",TRUE
+"COL1A2",0.276,-0.830000000000002,"PBM restores LPS-downregulated genes",TRUE
+"COL3A1",0.248500000000003,-1.1645,"PBM restores LPS-downregulated genes",TRUE
+"CSF2",4.5485,-2.8355,"PBM restores LPS-downregulated genes",TRUE
+"CSF3",0.647000000000002,-0.535500000000003,"PBM restores LPS-downregulated genes",TRUE
+"FLT1",4.7475,-4.8085,"PBM restores LPS-downregulated genes",TRUE
+"FN1",0.2225,-0.871500000000001,"PBM restores LPS-downregulated genes",TRUE
+"GLI1",-2.8415,0.924000000000007,"PBM suppresses LPS-upregulated genes",TRUE
+"IGF1",4.228,-4.202,"PBM restores LPS-downregulated genes",TRUE
+"IGF2",-0.790999999999997,0.575000000000003,"PBM suppresses LPS-upregulated genes",TRUE
+"ITGA3",0.992000000000001,-1.2,"PBM restores LPS-downregulated genes",TRUE
+"MMP10",1.155,-2.0565,"PBM restores LPS-downregulated genes",TRUE
+"MMP8",-2.3195,2.626,"PBM suppresses LPS-upregulated genes",TRUE
+"MMP9",-1.04349999999999,0.045499999999997,"PBM suppresses LPS-upregulated genes",TRUE
+"PDGFA",0.720500000000001,-1.963,"PBM restores LPS-downregulated genes",TRUE
+"RUNX2",0.545999999999999,-1.146,"PBM restores LPS-downregulated genes",TRUE
+"SP7",-0.5215,0.5,"PBM suppresses LPS-upregulated genes",TRUE
+"SPP1",-0.851999999999997,0.7455,"PBM suppresses LPS-upregulated genes",TRUE
+"TGFB3",1.364,-1.347,"PBM restores LPS-downregulated genes",TRUE
+"TNFSF11",1.0655,-0.564,"PBM restores LPS-downregulated genes",TRUE
+"VDR",-10.071,10.4385,"PBM suppresses LPS-upregulated genes",TRUE
+"VEGFB",-1.1245,2.0045,"PBM suppresses LPS-upregulated genes",TRUE
+"ACTB",0.545999999999999,-1.2465,"PBM restores LPS-downregulated genes",TRUE
+"GAPDH",0.859999999999999,-1.644,"PBM restores LPS-downregulated genes",TRUE
+"RPLP0",0.6935,-1.3935,"PBM restores LPS-downregulated genes",TRUE
+"ALPL",-2.741,-2.313,"PBM further increases",FALSE
+"ANXA5",-0.715499999999999,-0.774999999999999,"PBM further increases",FALSE
+"BGLAP",0.971499999999999,1.144,"PBM further decreases",FALSE
+"BGN",-0.112499999999997,-0.994500000000002,"PBM further increases",FALSE
+"BMP6",-0.3065,-1.2925,"PBM further increases",FALSE
+"BMPR1A",-0.736999999999998,-0.68,"PBM further increases",FALSE
+"BMPR2",-0.578499999999998,-0.829500000000003,"PBM further increases",FALSE
+"CDH11",-0.131500000000003,-1.1745,"PBM further increases",FALSE
+"COL10A1",-1.254,-2.22,"PBM further increases",FALSE
+"COL5A1",-0.446999999999999,-0.450500000000002,"PBM further increases",FALSE
+"CSF1",-0.167999999999999,-1.1195,"PBM further increases",FALSE
+"CTSK",-0.488500000000002,-0.632999999999996,"PBM further increases",FALSE
+"DLX5",-0.124000000000002,-0.799499999999995,"PBM further increases",FALSE
+"EGF",-3.178,-1.5605,"PBM further increases",FALSE
+"EGFR",-0.138500000000001,-0.939500000000002,"PBM further increases",FALSE
+"FGF2",-1.118,-0.869000000000003,"PBM further increases",FALSE
+"FGFR1",-0.032,-0.830500000000001,"PBM further increases",FALSE
+"FGFR2",0.6235,1.34350000000001,"PBM further decreases",FALSE
+"IGF1R",-1.677,-0.175999999999998,"PBM further increases",FALSE
+"ITGA1",-1.963,-0.539000000000001,"PBM further increases",FALSE
+"ITGA2",-1.398,-0.495500000000003,"PBM further increases",FALSE
+"ITGB1",-0.7255,-0.768000000000001,"PBM further increases",FALSE
+"MMP2",-0.1035,-0.760999999999999,"PBM further increases",FALSE
+"NFKB1",0,-1.2715,"PBM further decreases",FALSE
+"SERPINH1",-0.103000000000002,-0.809999999999999,"PBM further increases",FALSE
+"SMAD1",-0.312999999999999,-0.00650000000000261,"PBM further increases",FALSE
+"SMAD2",-0.468,-0.5825,"PBM further increases",FALSE
+"SMAD3",-0.357500000000002,-0.234499999999997,"PBM further increases",FALSE
+"SMAD4",-1.2075,-0.160500000000003,"PBM further increases",FALSE
+"SMAD5",-0.7135,-1.0255,"PBM further increases",FALSE
+"SOX9",-1.603,-1.0025,"PBM further increases",FALSE
+"TGFB1",-0.561999999999998,-0.192500000000003,"PBM further increases",FALSE
+"TGFB2",-0.855,-0.237500000000001,"PBM further increases",FALSE
+"TGFBR1",-0.160500000000003,-0.644499999999997,"PBM further increases",FALSE
+"TGFBR2",-0.108999999999998,-0.503500000000003,"PBM further increases",FALSE
+"TWIST1",-2.048,-0.796499999999998,"PBM further increases",FALSE
+"VCAM1",-2.3245,-0.48,"PBM further increases",FALSE
+"VEGFA",-0.322500000000002,-0.8185,"PBM further increases",FALSE
+"B2M",-0.394000000000002,-0.735499999999998,"PBM further increases",FALSE
+"HPRT1",-0.3155,-1.0045,"PBM further increases",FALSE

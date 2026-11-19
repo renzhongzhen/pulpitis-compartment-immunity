@@ -45,13 +45,14 @@ because reviewers can browse individual scripts.
 
 ## What is in this folder
 
-- `R/bulk/` bulk-transcriptome scripts
-- `R/singlecell/` GSE185222 scripts
-- `R/emtab/` E-MTAB-14896 scripts, including the leave-one-patient-out and permutation tests added
-  in the final revision (`56_endo_ratio_lopo.R`, `57_LR_patient_perm.R`)
-- `R/manuscript/` figure assembly and manuscript generation
-- `results/` 59 numerical tables behind the figures
+- 40 R/Python scripts, grouped by name prefix: `05_`–`16_`, `29_`–`41_`, `46_`–`86_` (bulk);
+  `20_`–`27_` (GSE185222); `36_`–`57_` (E-MTAB-14896, including the leave-one-patient-out and
+  permutation tests added in the final revision: `56_endo_ratio_lopo.R`, `57_LR_patient_perm.R`);
+  `19i_`, `19j_`, `60_` (figure assembly and manuscript generation)
+- 59 numerical result tables behind the figures
 - `README.md`, `LICENSE`
 
-Raw GEO/ArrayExpress matrices and the intermediate expression RDS files are deliberately excluded
-(regenerable from the accessions and far too large for a repository).
+The GitHub web upload flattened the planned `R/` and `results/` folders, so every file now sits in
+the repository root; README §3 explains the grouping. Raw GEO/ArrayExpress matrices and the
+intermediate expression RDS files are deliberately excluded (regenerable from the accessions and
+far too large for a repository).

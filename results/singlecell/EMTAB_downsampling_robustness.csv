@@ -1,0 +1,13 @@
+"celltype","mean_diff","lo","hi","sign_consistent"
+"Endothelial cells 2",8.745,8.132,9.355,100
+"Endothelial cells 3",8.438,7.728,9.001,100
+"Endothelial cells 1",6.431,5.852,7.16,100
+"Blood & Immune cells 1",4.274,3.823,4.749,100
+"Endothelial cells 4",3.661,3.002,4.223,100
+"Fibroblast & Stromal cells 2",3.521,2.821,4.373,100
+"Mural cells",3.341,2.823,3.677,100
+"Glial cells 1",2.015,1.569,2.424,100
+"Glial cells 2",1.687,1.346,1.95,100
+"Blood & Immune cells 2",0.326,-0.195,0.785,80
+"Fibroblast & Stromal cells 3",-4.1,-4.795,-3.595,100
+"Fibroblast & Stromal cells 1",-38.339,-39.148,-37.477,100

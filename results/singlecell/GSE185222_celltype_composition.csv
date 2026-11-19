@@ -1,0 +1,27 @@
+"celltype","condition","Freq","pct"
+"B cells","Deep caries",192,5.22164808267609
+"Endothelial","Deep caries",341,9.27386456350285
+"Fibroblasts","Deep caries",556,15.1210225727495
+"Fibroblasts/MSC","Deep caries",522,14.1963557247756
+"Macrophages/Monocytes","Deep caries",256,6.96219744356813
+"Mixed/low-quality","Deep caries",25,0.67990209409845
+"Neural/Schwann (SPP1+)","Deep caries",60,1.63176502583628
+"Odontoblast-like (OMD+)","Deep caries",939,25.5371226543378
+"Odontoblasts (DMP1+/IBSP+)","Deep caries",142,3.8618438944792
+"Pericytes/SMC","Deep caries",138,3.75305955942344
+"Plasma cells","Deep caries",99,2.69241229262986
+"Schwann cells (MPZ+)","Deep caries",39,1.06064726679358
+"T/NK cells","Deep caries",368,10.0081588251292
+"B cells","Healthy/Enamel caries",0,0
+"Endothelial","Healthy/Enamel caries",318,10.9466437177281
+"Fibroblasts","Healthy/Enamel caries",808,27.8141135972461
+"Fibroblasts/MSC","Healthy/Enamel caries",155,5.33562822719449
+"Macrophages/Monocytes","Healthy/Enamel caries",176,6.05851979345955
+"Mixed/low-quality","Healthy/Enamel caries",1,0.0344234079173838
+"Neural/Schwann (SPP1+)","Healthy/Enamel caries",60,2.06540447504303
+"Odontoblast-like (OMD+)","Healthy/Enamel caries",900,30.9810671256454
+"Odontoblasts (DMP1+/IBSP+)","Healthy/Enamel caries",22,0.757314974182444
+"Pericytes/SMC","Healthy/Enamel caries",219,7.53872633390706
+"Plasma cells","Healthy/Enamel caries",2,0.0688468158347676
+"Schwann cells (MPZ+)","Healthy/Enamel caries",29,0.998278829604131
+"T/NK cells","Healthy/Enamel caries",215,7.40103270223752

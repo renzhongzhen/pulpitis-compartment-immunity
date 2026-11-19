@@ -1,0 +1,1729 @@
+"patient","stage","from","to","strength"
+"Healthy 3","Healthy","Blood & Immune cells 1","Blood & Immune cells 1",12.0132063839869
+"Healthy 3","Healthy","Blood & Immune cells 1","Blood & Immune cells 2",0
+"Healthy 3","Healthy","Blood & Immune cells 1","Endothelial cells 1",17.3298840116212
+"Healthy 3","Healthy","Blood & Immune cells 1","Endothelial cells 2",3.45804540500738
+"Healthy 3","Healthy","Blood & Immune cells 1","Endothelial cells 3",0
+"Healthy 3","Healthy","Blood & Immune cells 1","Endothelial cells 4",1.86993693050818
+"Healthy 3","Healthy","Blood & Immune cells 1","Fibroblast & Stromal cells 1",1.70608308004433
+"Healthy 3","Healthy","Blood & Immune cells 1","Fibroblast & Stromal cells 2",2.3667715348481
+"Healthy 3","Healthy","Blood & Immune cells 1","Fibroblast & Stromal cells 3",0
+"Healthy 3","Healthy","Blood & Immune cells 1","Glial cells 1",10.0617128842279
+"Healthy 3","Healthy","Blood & Immune cells 1","Glial cells 2",3.01662736950214
+"Healthy 3","Healthy","Blood & Immune cells 1","Mural cells",8.23132870067821
+"Healthy 3","Healthy","Blood & Immune cells 2","Blood & Immune cells 1",0
+"Healthy 3","Healthy","Blood & Immune cells 2","Blood & Immune cells 2",0
+"Healthy 3","Healthy","Blood & Immune cells 2","Endothelial cells 1",0.768268746884025
+"Healthy 3","Healthy","Blood & Immune cells 2","Endothelial cells 2",0.28575536636801
+"Healthy 3","Healthy","Blood & Immune cells 2","Endothelial cells 3",0
+"Healthy 3","Healthy","Blood & Immune cells 2","Endothelial cells 4",0
+"Healthy 3","Healthy","Blood & Immune cells 2","Fibroblast & Stromal cells 1",0.0857392934158648
+"Healthy 3","Healthy","Blood & Immune cells 2","Fibroblast & Stromal cells 2",0
+"Healthy 3","Healthy","Blood & Immune cells 2","Fibroblast & Stromal cells 3",0
+"Healthy 3","Healthy","Blood & Immune cells 2","Glial cells 1",0
+"Healthy 3","Healthy","Blood & Immune cells 2","Glial cells 2",1.23116671729496
+"Healthy 3","Healthy","Blood & Immune cells 2","Mural cells",0
+"Healthy 3","Healthy","Endothelial cells 1","Blood & Immune cells 1",21.4805858555242
+"Healthy 3","Healthy","Endothelial cells 1","Blood & Immune cells 2",5.07937912957257
+"Healthy 3","Healthy","Endothelial cells 1","Endothelial cells 1",69.9941314090919
+"Healthy 3","Healthy","Endothelial cells 1","Endothelial cells 2",17.8847705658893
+"Healthy 3","Healthy","Endothelial cells 1","Endothelial cells 3",2.44835002475895
+"Healthy 3","Healthy","Endothelial cells 1","Endothelial cells 4",13.5607952028342
+"Healthy 3","Healthy","Endothelial cells 1","Fibroblast & Stromal cells 1",21.30838392107
+"Healthy 3","Healthy","Endothelial cells 1","Fibroblast & Stromal cells 2",15.4231885829289
+"Healthy 3","Healthy","Endothelial cells 1","Fibroblast & Stromal cells 3",36.2731073894171
+"Healthy 3","Healthy","Endothelial cells 1","Glial cells 1",24.0055333651576
+"Healthy 3","Healthy","Endothelial cells 1","Glial cells 2",17.986266255161
+"Healthy 3","Healthy","Endothelial cells 1","Mural cells",12.9553410109148
+"Healthy 3","Healthy","Endothelial cells 2","Blood & Immune cells 1",3.16155636507597
+"Healthy 3","Healthy","Endothelial cells 2","Blood & Immune cells 2",6.992746711749
+"Healthy 3","Healthy","Endothelial cells 2","Endothelial cells 1",19.7028303874039
+"Healthy 3","Healthy","Endothelial cells 2","Endothelial cells 2",11.2907850389886
+"Healthy 3","Healthy","Endothelial cells 2","Endothelial cells 3",1.31327612490944
+"Healthy 3","Healthy","Endothelial cells 2","Endothelial cells 4",3.1131162726748
+"Healthy 3","Healthy","Endothelial cells 2","Fibroblast & Stromal cells 1",4.18976177992641
+"Healthy 3","Healthy","Endothelial cells 2","Fibroblast & Stromal cells 2",2.65011228232612
+"Healthy 3","Healthy","Endothelial cells 2","Fibroblast & Stromal cells 3",6.37013293149233
+"Healthy 3","Healthy","Endothelial cells 2","Glial cells 1",3.61784945953093
+"Healthy 3","Healthy","Endothelial cells 2","Glial cells 2",5.1727028050941
+"Healthy 3","Healthy","Endothelial cells 2","Mural cells",7.06798128428291
+"Healthy 3","Healthy","Endothelial cells 3","Blood & Immune cells 1",0
+"Healthy 3","Healthy","Endothelial cells 3","Blood & Immune cells 2",0
+"Healthy 3","Healthy","Endothelial cells 3","Endothelial cells 1",9.23244079942653
+"Healthy 3","Healthy","Endothelial cells 3","Endothelial cells 2",2.90344396301326
+"Healthy 3","Healthy","Endothelial cells 3","Endothelial cells 3",0
+"Healthy 3","Healthy","Endothelial cells 3","Endothelial cells 4",0
+"Healthy 3","Healthy","Endothelial cells 3","Fibroblast & Stromal cells 1",0.916956258386234
+"Healthy 3","Healthy","Endothelial cells 3","Fibroblast & Stromal cells 2",0
+"Healthy 3","Healthy","Endothelial cells 3","Fibroblast & Stromal cells 3",0
+"Healthy 3","Healthy","Endothelial cells 3","Glial cells 1",0
+"Healthy 3","Healthy","Endothelial cells 3","Glial cells 2",3.34892031504341
+"Healthy 3","Healthy","Endothelial cells 3","Mural cells",0
+"Healthy 3","Healthy","Endothelial cells 4","Blood & Immune cells 1",2.01879837956109
+"Healthy 3","Healthy","Endothelial cells 4","Blood & Immune cells 2",4.15495093335398
+"Healthy 3","Healthy","Endothelial cells 4","Endothelial cells 1",12.592738274724
+"Healthy 3","Healthy","Endothelial cells 4","Endothelial cells 2",8.13329073414518
+"Healthy 3","Healthy","Endothelial cells 4","Endothelial cells 3",0
+"Healthy 3","Healthy","Endothelial cells 4","Endothelial cells 4",1.97142033355253
+"Healthy 3","Healthy","Endothelial cells 4","Fibroblast & Stromal cells 1",2.90881820132162
+"Healthy 3","Healthy","Endothelial cells 4","Fibroblast & Stromal cells 2",1.96332713348529
+"Healthy 3","Healthy","Endothelial cells 4","Fibroblast & Stromal cells 3",4.52052054090583
+"Healthy 3","Healthy","Endothelial cells 4","Glial cells 1",2.86561173731146
+"Healthy 3","Healthy","Endothelial cells 4","Glial cells 2",3.67360459508556
+"Healthy 3","Healthy","Endothelial cells 4","Mural cells",2.5284647131095
+"Healthy 3","Healthy","Fibroblast & Stromal cells 1","Blood & Immune cells 1",2.4749327105996
+"Healthy 3","Healthy","Fibroblast & Stromal cells 1","Blood & Immune cells 2",1.1997702446527
+"Healthy 3","Healthy","Fibroblast & Stromal cells 1","Endothelial cells 1",9.040655908828
+"Healthy 3","Healthy","Fibroblast & Stromal cells 1","Endothelial cells 2",2.58668573342047
+"Healthy 3","Healthy","Fibroblast & Stromal cells 1","Endothelial cells 3",1.20572566290697
+"Healthy 3","Healthy","Fibroblast & Stromal cells 1","Endothelial cells 4",1.53881149489484
+"Healthy 3","Healthy","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 1",2.1435105163728
+"Healthy 3","Healthy","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 2",1.7743232629744
+"Healthy 3","Healthy","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 3",3.8808638406352
+"Healthy 3","Healthy","Fibroblast & Stromal cells 1","Glial cells 1",2.7709020304586
+"Healthy 3","Healthy","Fibroblast & Stromal cells 1","Glial cells 2",2.3468575987063
+"Healthy 3","Healthy","Fibroblast & Stromal cells 1","Mural cells",1.9864978649916
+"Healthy 3","Healthy","Fibroblast & Stromal cells 2","Blood & Immune cells 1",2.22850929560081
+"Healthy 3","Healthy","Fibroblast & Stromal cells 2","Blood & Immune cells 2",1.92216362165857
+"Healthy 3","Healthy","Fibroblast & Stromal cells 2","Endothelial cells 1",10.642321155597
+"Healthy 3","Healthy","Fibroblast & Stromal cells 2","Endothelial cells 2",3.62273426949204
+"Healthy 3","Healthy","Fibroblast & Stromal cells 2","Endothelial cells 3",2.81705312865825
+"Healthy 3","Healthy","Fibroblast & Stromal cells 2","Endothelial cells 4",2.28697209745225
+"Healthy 3","Healthy","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 1",1.77572991608763
+"Healthy 3","Healthy","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 2",2.44787946601259
+"Healthy 3","Healthy","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 3",4.15032118291182
+"Healthy 3","Healthy","Fibroblast & Stromal cells 2","Glial cells 1",1.88514214205593
+"Healthy 3","Healthy","Fibroblast & Stromal cells 2","Glial cells 2",2.21347951300629
+"Healthy 3","Healthy","Fibroblast & Stromal cells 2","Mural cells",4.58197537390772
+"Healthy 3","Healthy","Fibroblast & Stromal cells 3","Blood & Immune cells 1",2.94391189225938
+"Healthy 3","Healthy","Fibroblast & Stromal cells 3","Blood & Immune cells 2",1.42127192163825
+"Healthy 3","Healthy","Fibroblast & Stromal cells 3","Endothelial cells 1",13.4583129933762
+"Healthy 3","Healthy","Fibroblast & Stromal cells 3","Endothelial cells 2",3.07206770116559
+"Healthy 3","Healthy","Fibroblast & Stromal cells 3","Endothelial cells 3",0
+"Healthy 3","Healthy","Fibroblast & Stromal cells 3","Endothelial cells 4",2.413303850325
+"Healthy 3","Healthy","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 1",3.67729519697877
+"Healthy 3","Healthy","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 2",2.65026852203716
+"Healthy 3","Healthy","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 3",5.12635311930423
+"Healthy 3","Healthy","Fibroblast & Stromal cells 3","Glial cells 1",2.46568611822579
+"Healthy 3","Healthy","Fibroblast & Stromal cells 3","Glial cells 2",3.31622517515898
+"Healthy 3","Healthy","Fibroblast & Stromal cells 3","Mural cells",5.6769099567638
+"Healthy 3","Healthy","Glial cells 1","Blood & Immune cells 1",7.52775965366156
+"Healthy 3","Healthy","Glial cells 1","Blood & Immune cells 2",0
+"Healthy 3","Healthy","Glial cells 1","Endothelial cells 1",13.5419427228225
+"Healthy 3","Healthy","Glial cells 1","Endothelial cells 2",1.35880097868711
+"Healthy 3","Healthy","Glial cells 1","Endothelial cells 3",0
+"Healthy 3","Healthy","Glial cells 1","Endothelial cells 4",3.04117383579453
+"Healthy 3","Healthy","Glial cells 1","Fibroblast & Stromal cells 1",6.38054622546261
+"Healthy 3","Healthy","Glial cells 1","Fibroblast & Stromal cells 2",3.57481081055219
+"Healthy 3","Healthy","Glial cells 1","Fibroblast & Stromal cells 3",10.2191658136721
+"Healthy 3","Healthy","Glial cells 1","Glial cells 1",0
+"Healthy 3","Healthy","Glial cells 1","Glial cells 2",4.98687042143811
+"Healthy 3","Healthy","Glial cells 1","Mural cells",0
+"Healthy 3","Healthy","Glial cells 2","Blood & Immune cells 1",12.6739827341541
+"Healthy 3","Healthy","Glial cells 2","Blood & Immune cells 2",1.23116671729496
+"Healthy 3","Healthy","Glial cells 2","Endothelial cells 1",33.8066176510156
+"Healthy 3","Healthy","Glial cells 2","Endothelial cells 2",10.3353502600009
+"Healthy 3","Healthy","Glial cells 2","Endothelial cells 3",4.04955601624183
+"Healthy 3","Healthy","Glial cells 2","Endothelial cells 4",6.37284627388026
+"Healthy 3","Healthy","Glial cells 2","Fibroblast & Stromal cells 1",10.3022398724843
+"Healthy 3","Healthy","Glial cells 2","Fibroblast & Stromal cells 2",7.87622588320322
+"Healthy 3","Healthy","Glial cells 2","Fibroblast & Stromal cells 3",17.8550841994192
+"Healthy 3","Healthy","Glial cells 2","Glial cells 1",15.0589379264353
+"Healthy 3","Healthy","Glial cells 2","Glial cells 2",8.90460894744663
+"Healthy 3","Healthy","Glial cells 2","Mural cells",4.79501603829101
+"Healthy 3","Healthy","Mural cells","Blood & Immune cells 1",8.01596034021642
+"Healthy 3","Healthy","Mural cells","Blood & Immune cells 2",0
+"Healthy 3","Healthy","Mural cells","Endothelial cells 1",11.8713701659417
+"Healthy 3","Healthy","Mural cells","Endothelial cells 2",2.29734192001714
+"Healthy 3","Healthy","Mural cells","Endothelial cells 3",5.26338338584447
+"Healthy 3","Healthy","Mural cells","Endothelial cells 4",2.18524542797991
+"Healthy 3","Healthy","Mural cells","Fibroblast & Stromal cells 1",4.01928929121633
+"Healthy 3","Healthy","Mural cells","Fibroblast & Stromal cells 2",3.88597963786208
+"Healthy 3","Healthy","Mural cells","Fibroblast & Stromal cells 3",9.03467419393262
+"Healthy 3","Healthy","Mural cells","Glial cells 1",5.8355402357647
+"Healthy 3","Healthy","Mural cells","Glial cells 2",3.4358256765249
+"Healthy 3","Healthy","Mural cells","Mural cells",1.21359320106745
+"Healthy 4","Healthy","Blood & Immune cells 1","Blood & Immune cells 1",0
+"Healthy 4","Healthy","Blood & Immune cells 1","Blood & Immune cells 2",0
+"Healthy 4","Healthy","Blood & Immune cells 1","Endothelial cells 1",12.5356927885474
+"Healthy 4","Healthy","Blood & Immune cells 1","Endothelial cells 2",0
+"Healthy 4","Healthy","Blood & Immune cells 1","Endothelial cells 3",0
+"Healthy 4","Healthy","Blood & Immune cells 1","Endothelial cells 4",9.35215113287265
+"Healthy 4","Healthy","Blood & Immune cells 1","Fibroblast & Stromal cells 1",2.01496833397626
+"Healthy 4","Healthy","Blood & Immune cells 1","Fibroblast & Stromal cells 2",0
+"Healthy 4","Healthy","Blood & Immune cells 1","Fibroblast & Stromal cells 3",0
+"Healthy 4","Healthy","Blood & Immune cells 1","Glial cells 1",0
+"Healthy 4","Healthy","Blood & Immune cells 1","Glial cells 2",0
+"Healthy 4","Healthy","Blood & Immune cells 1","Mural cells",0
+"Healthy 4","Healthy","Blood & Immune cells 2","Blood & Immune cells 1",0
+"Healthy 4","Healthy","Blood & Immune cells 2","Blood & Immune cells 2",1.02628661809285
+"Healthy 4","Healthy","Blood & Immune cells 2","Endothelial cells 1",1.88605531115937
+"Healthy 4","Healthy","Blood & Immune cells 2","Endothelial cells 2",2.82044233359781
+"Healthy 4","Healthy","Blood & Immune cells 2","Endothelial cells 3",0
+"Healthy 4","Healthy","Blood & Immune cells 2","Endothelial cells 4",1.07653371478592
+"Healthy 4","Healthy","Blood & Immune cells 2","Fibroblast & Stromal cells 1",0.555295176800738
+"Healthy 4","Healthy","Blood & Immune cells 2","Fibroblast & Stromal cells 2",0
+"Healthy 4","Healthy","Blood & Immune cells 2","Fibroblast & Stromal cells 3",0
+"Healthy 4","Healthy","Blood & Immune cells 2","Glial cells 1",0
+"Healthy 4","Healthy","Blood & Immune cells 2","Glial cells 2",0
+"Healthy 4","Healthy","Blood & Immune cells 2","Mural cells",0
+"Healthy 4","Healthy","Endothelial cells 1","Blood & Immune cells 1",12.6298996611821
+"Healthy 4","Healthy","Endothelial cells 1","Blood & Immune cells 2",6.2436363142315
+"Healthy 4","Healthy","Endothelial cells 1","Endothelial cells 1",37.3244944039577
+"Healthy 4","Healthy","Endothelial cells 1","Endothelial cells 2",21.5767343846677
+"Healthy 4","Healthy","Endothelial cells 1","Endothelial cells 3",0
+"Healthy 4","Healthy","Endothelial cells 1","Endothelial cells 4",18.2609185799363
+"Healthy 4","Healthy","Endothelial cells 1","Fibroblast & Stromal cells 1",13.4032918089994
+"Healthy 4","Healthy","Endothelial cells 1","Fibroblast & Stromal cells 2",12.3531097194635
+"Healthy 4","Healthy","Endothelial cells 1","Fibroblast & Stromal cells 3",12.6239392728422
+"Healthy 4","Healthy","Endothelial cells 1","Glial cells 1",18.899725296001
+"Healthy 4","Healthy","Endothelial cells 1","Glial cells 2",0
+"Healthy 4","Healthy","Endothelial cells 1","Mural cells",0
+"Healthy 4","Healthy","Endothelial cells 2","Blood & Immune cells 1",11.6232889635361
+"Healthy 4","Healthy","Endothelial cells 2","Blood & Immune cells 2",1.76831947112943
+"Healthy 4","Healthy","Endothelial cells 2","Endothelial cells 1",16.5316272270393
+"Healthy 4","Healthy","Endothelial cells 2","Endothelial cells 2",12.0397700232852
+"Healthy 4","Healthy","Endothelial cells 2","Endothelial cells 3",0
+"Healthy 4","Healthy","Endothelial cells 2","Endothelial cells 4",9.08493728692295
+"Healthy 4","Healthy","Endothelial cells 2","Fibroblast & Stromal cells 1",4.92547375325487
+"Healthy 4","Healthy","Endothelial cells 2","Fibroblast & Stromal cells 2",3.6858306039526
+"Healthy 4","Healthy","Endothelial cells 2","Fibroblast & Stromal cells 3",5.13405500950788
+"Healthy 4","Healthy","Endothelial cells 2","Glial cells 1",5.86092993276814
+"Healthy 4","Healthy","Endothelial cells 2","Glial cells 2",0
+"Healthy 4","Healthy","Endothelial cells 2","Mural cells",0
+"Healthy 4","Healthy","Endothelial cells 3","Blood & Immune cells 1",0
+"Healthy 4","Healthy","Endothelial cells 3","Blood & Immune cells 2",0
+"Healthy 4","Healthy","Endothelial cells 3","Endothelial cells 1",0
+"Healthy 4","Healthy","Endothelial cells 3","Endothelial cells 2",0
+"Healthy 4","Healthy","Endothelial cells 3","Endothelial cells 3",0
+"Healthy 4","Healthy","Endothelial cells 3","Endothelial cells 4",0
+"Healthy 4","Healthy","Endothelial cells 3","Fibroblast & Stromal cells 1",0
+"Healthy 4","Healthy","Endothelial cells 3","Fibroblast & Stromal cells 2",0
+"Healthy 4","Healthy","Endothelial cells 3","Fibroblast & Stromal cells 3",0
+"Healthy 4","Healthy","Endothelial cells 3","Glial cells 1",0
+"Healthy 4","Healthy","Endothelial cells 3","Glial cells 2",0
+"Healthy 4","Healthy","Endothelial cells 3","Mural cells",0
+"Healthy 4","Healthy","Endothelial cells 4","Blood & Immune cells 1",7.01091857272529
+"Healthy 4","Healthy","Endothelial cells 4","Blood & Immune cells 2",2.61090951344313
+"Healthy 4","Healthy","Endothelial cells 4","Endothelial cells 1",15.0795745291202
+"Healthy 4","Healthy","Endothelial cells 4","Endothelial cells 2",5.06797150996887
+"Healthy 4","Healthy","Endothelial cells 4","Endothelial cells 3",0
+"Healthy 4","Healthy","Endothelial cells 4","Endothelial cells 4",8.02993649981959
+"Healthy 4","Healthy","Endothelial cells 4","Fibroblast & Stromal cells 1",5.50422152138518
+"Healthy 4","Healthy","Endothelial cells 4","Fibroblast & Stromal cells 2",5.03140441445637
+"Healthy 4","Healthy","Endothelial cells 4","Fibroblast & Stromal cells 3",5.94415431620567
+"Healthy 4","Healthy","Endothelial cells 4","Glial cells 1",6.11104712193738
+"Healthy 4","Healthy","Endothelial cells 4","Glial cells 2",0
+"Healthy 4","Healthy","Endothelial cells 4","Mural cells",0
+"Healthy 4","Healthy","Fibroblast & Stromal cells 1","Blood & Immune cells 1",3.17208549699667
+"Healthy 4","Healthy","Fibroblast & Stromal cells 1","Blood & Immune cells 2",1.47592258011791
+"Healthy 4","Healthy","Fibroblast & Stromal cells 1","Endothelial cells 1",8.78412147304022
+"Healthy 4","Healthy","Fibroblast & Stromal cells 1","Endothelial cells 2",3.02801031319377
+"Healthy 4","Healthy","Fibroblast & Stromal cells 1","Endothelial cells 3",0
+"Healthy 4","Healthy","Fibroblast & Stromal cells 1","Endothelial cells 4",4.66466154427008
+"Healthy 4","Healthy","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 1",3.28816692404012
+"Healthy 4","Healthy","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 2",2.88613324739927
+"Healthy 4","Healthy","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 3",2.94931433321798
+"Healthy 4","Healthy","Fibroblast & Stromal cells 1","Glial cells 1",4.56930466132529
+"Healthy 4","Healthy","Fibroblast & Stromal cells 1","Glial cells 2",0
+"Healthy 4","Healthy","Fibroblast & Stromal cells 1","Mural cells",0
+"Healthy 4","Healthy","Fibroblast & Stromal cells 2","Blood & Immune cells 1",23.4326259555687
+"Healthy 4","Healthy","Fibroblast & Stromal cells 2","Blood & Immune cells 2",3.42606499225754
+"Healthy 4","Healthy","Fibroblast & Stromal cells 2","Endothelial cells 1",24.8618472064103
+"Healthy 4","Healthy","Fibroblast & Stromal cells 2","Endothelial cells 2",6.36776260894412
+"Healthy 4","Healthy","Fibroblast & Stromal cells 2","Endothelial cells 3",0
+"Healthy 4","Healthy","Fibroblast & Stromal cells 2","Endothelial cells 4",12.6434615021289
+"Healthy 4","Healthy","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 1",11.4119979377885
+"Healthy 4","Healthy","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 2",13.819930991862
+"Healthy 4","Healthy","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 3",10.7168523814549
+"Healthy 4","Healthy","Fibroblast & Stromal cells 2","Glial cells 1",0
+"Healthy 4","Healthy","Fibroblast & Stromal cells 2","Glial cells 2",0
+"Healthy 4","Healthy","Fibroblast & Stromal cells 2","Mural cells",0
+"Healthy 4","Healthy","Fibroblast & Stromal cells 3","Blood & Immune cells 1",0
+"Healthy 4","Healthy","Fibroblast & Stromal cells 3","Blood & Immune cells 2",1.6451715034646
+"Healthy 4","Healthy","Fibroblast & Stromal cells 3","Endothelial cells 1",16.0756626608076
+"Healthy 4","Healthy","Fibroblast & Stromal cells 3","Endothelial cells 2",6.7643745967109
+"Healthy 4","Healthy","Fibroblast & Stromal cells 3","Endothelial cells 3",0
+"Healthy 4","Healthy","Fibroblast & Stromal cells 3","Endothelial cells 4",8.98908279912108
+"Healthy 4","Healthy","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 1",5.52293856606195
+"Healthy 4","Healthy","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 2",5.69515933056787
+"Healthy 4","Healthy","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 3",3.16040368051611
+"Healthy 4","Healthy","Fibroblast & Stromal cells 3","Glial cells 1",8.474945785107
+"Healthy 4","Healthy","Fibroblast & Stromal cells 3","Glial cells 2",0
+"Healthy 4","Healthy","Fibroblast & Stromal cells 3","Mural cells",0
+"Healthy 4","Healthy","Glial cells 1","Blood & Immune cells 1",0
+"Healthy 4","Healthy","Glial cells 1","Blood & Immune cells 2",14.2380814010992
+"Healthy 4","Healthy","Glial cells 1","Endothelial cells 1",59.8333130118765
+"Healthy 4","Healthy","Glial cells 1","Endothelial cells 2",7.43048747915665
+"Healthy 4","Healthy","Glial cells 1","Endothelial cells 3",0
+"Healthy 4","Healthy","Glial cells 1","Endothelial cells 4",34.9474703291156
+"Healthy 4","Healthy","Glial cells 1","Fibroblast & Stromal cells 1",31.1057559626351
+"Healthy 4","Healthy","Glial cells 1","Fibroblast & Stromal cells 2",39.5355261466121
+"Healthy 4","Healthy","Glial cells 1","Fibroblast & Stromal cells 3",24.5506537596296
+"Healthy 4","Healthy","Glial cells 1","Glial cells 1",0
+"Healthy 4","Healthy","Glial cells 1","Glial cells 2",0
+"Healthy 4","Healthy","Glial cells 1","Mural cells",0
+"Healthy 4","Healthy","Glial cells 2","Blood & Immune cells 1",0
+"Healthy 4","Healthy","Glial cells 2","Blood & Immune cells 2",0
+"Healthy 4","Healthy","Glial cells 2","Endothelial cells 1",0
+"Healthy 4","Healthy","Glial cells 2","Endothelial cells 2",0
+"Healthy 4","Healthy","Glial cells 2","Endothelial cells 3",0
+"Healthy 4","Healthy","Glial cells 2","Endothelial cells 4",0
+"Healthy 4","Healthy","Glial cells 2","Fibroblast & Stromal cells 1",0
+"Healthy 4","Healthy","Glial cells 2","Fibroblast & Stromal cells 2",0
+"Healthy 4","Healthy","Glial cells 2","Fibroblast & Stromal cells 3",0
+"Healthy 4","Healthy","Glial cells 2","Glial cells 1",0
+"Healthy 4","Healthy","Glial cells 2","Glial cells 2",0
+"Healthy 4","Healthy","Glial cells 2","Mural cells",0
+"Healthy 4","Healthy","Mural cells","Blood & Immune cells 1",0
+"Healthy 4","Healthy","Mural cells","Blood & Immune cells 2",0
+"Healthy 4","Healthy","Mural cells","Endothelial cells 1",0
+"Healthy 4","Healthy","Mural cells","Endothelial cells 2",0
+"Healthy 4","Healthy","Mural cells","Endothelial cells 3",0
+"Healthy 4","Healthy","Mural cells","Endothelial cells 4",0
+"Healthy 4","Healthy","Mural cells","Fibroblast & Stromal cells 1",0
+"Healthy 4","Healthy","Mural cells","Fibroblast & Stromal cells 2",0
+"Healthy 4","Healthy","Mural cells","Fibroblast & Stromal cells 3",0
+"Healthy 4","Healthy","Mural cells","Glial cells 1",0
+"Healthy 4","Healthy","Mural cells","Glial cells 2",0
+"Healthy 4","Healthy","Mural cells","Mural cells",0
+"Advanced stage 3","Advanced","Blood & Immune cells 1","Blood & Immune cells 1",19.1703535671594
+"Advanced stage 3","Advanced","Blood & Immune cells 1","Blood & Immune cells 2",15.9038983437627
+"Advanced stage 3","Advanced","Blood & Immune cells 1","Endothelial cells 1",28.8932685535661
+"Advanced stage 3","Advanced","Blood & Immune cells 1","Endothelial cells 2",10.80757589362
+"Advanced stage 3","Advanced","Blood & Immune cells 1","Endothelial cells 3",13.7591191763481
+"Advanced stage 3","Advanced","Blood & Immune cells 1","Endothelial cells 4",14.9113614238518
+"Advanced stage 3","Advanced","Blood & Immune cells 1","Fibroblast & Stromal cells 1",20.644502860972
+"Advanced stage 3","Advanced","Blood & Immune cells 1","Fibroblast & Stromal cells 2",23.944698519518
+"Advanced stage 3","Advanced","Blood & Immune cells 1","Fibroblast & Stromal cells 3",23.5344351457546
+"Advanced stage 3","Advanced","Blood & Immune cells 1","Glial cells 1",0
+"Advanced stage 3","Advanced","Blood & Immune cells 1","Glial cells 2",14.3713076303627
+"Advanced stage 3","Advanced","Blood & Immune cells 1","Mural cells",13.1634199294017
+"Advanced stage 3","Advanced","Blood & Immune cells 2","Blood & Immune cells 1",9.82629277500586
+"Advanced stage 3","Advanced","Blood & Immune cells 2","Blood & Immune cells 2",14.9646159117961
+"Advanced stage 3","Advanced","Blood & Immune cells 2","Endothelial cells 1",25.894313041054
+"Advanced stage 3","Advanced","Blood & Immune cells 2","Endothelial cells 2",8.34447388733777
+"Advanced stage 3","Advanced","Blood & Immune cells 2","Endothelial cells 3",11.3243854922445
+"Advanced stage 3","Advanced","Blood & Immune cells 2","Endothelial cells 4",12.4795496770168
+"Advanced stage 3","Advanced","Blood & Immune cells 2","Fibroblast & Stromal cells 1",20.2320819866769
+"Advanced stage 3","Advanced","Blood & Immune cells 2","Fibroblast & Stromal cells 2",26.0352353756477
+"Advanced stage 3","Advanced","Blood & Immune cells 2","Fibroblast & Stromal cells 3",22.0304231905099
+"Advanced stage 3","Advanced","Blood & Immune cells 2","Glial cells 1",0
+"Advanced stage 3","Advanced","Blood & Immune cells 2","Glial cells 2",17.3651742083902
+"Advanced stage 3","Advanced","Blood & Immune cells 2","Mural cells",15.6998637061383
+"Advanced stage 3","Advanced","Endothelial cells 1","Blood & Immune cells 1",26.5659589007928
+"Advanced stage 3","Advanced","Endothelial cells 1","Blood & Immune cells 2",30.9006690964426
+"Advanced stage 3","Advanced","Endothelial cells 1","Endothelial cells 1",46.2444696920217
+"Advanced stage 3","Advanced","Endothelial cells 1","Endothelial cells 2",20.5198680778445
+"Advanced stage 3","Advanced","Endothelial cells 1","Endothelial cells 3",23.9351767933006
+"Advanced stage 3","Advanced","Endothelial cells 1","Endothelial cells 4",22.3481780075297
+"Advanced stage 3","Advanced","Endothelial cells 1","Fibroblast & Stromal cells 1",33.7231881907081
+"Advanced stage 3","Advanced","Endothelial cells 1","Fibroblast & Stromal cells 2",43.7024743280899
+"Advanced stage 3","Advanced","Endothelial cells 1","Fibroblast & Stromal cells 3",36.8693216405886
+"Advanced stage 3","Advanced","Endothelial cells 1","Glial cells 1",0
+"Advanced stage 3","Advanced","Endothelial cells 1","Glial cells 2",28.150451004719
+"Advanced stage 3","Advanced","Endothelial cells 1","Mural cells",27.5449630133414
+"Advanced stage 3","Advanced","Endothelial cells 2","Blood & Immune cells 1",24.7400566428013
+"Advanced stage 3","Advanced","Endothelial cells 2","Blood & Immune cells 2",22.0008253991567
+"Advanced stage 3","Advanced","Endothelial cells 2","Endothelial cells 1",32.4466321152948
+"Advanced stage 3","Advanced","Endothelial cells 2","Endothelial cells 2",11.91532148708
+"Advanced stage 3","Advanced","Endothelial cells 2","Endothelial cells 3",17.1555685150341
+"Advanced stage 3","Advanced","Endothelial cells 2","Endothelial cells 4",13.6107236360512
+"Advanced stage 3","Advanced","Endothelial cells 2","Fibroblast & Stromal cells 1",22.7847076224207
+"Advanced stage 3","Advanced","Endothelial cells 2","Fibroblast & Stromal cells 2",31.3033012846201
+"Advanced stage 3","Advanced","Endothelial cells 2","Fibroblast & Stromal cells 3",23.703541982604
+"Advanced stage 3","Advanced","Endothelial cells 2","Glial cells 1",0
+"Advanced stage 3","Advanced","Endothelial cells 2","Glial cells 2",19.0309528377382
+"Advanced stage 3","Advanced","Endothelial cells 2","Mural cells",21.4240094501126
+"Advanced stage 3","Advanced","Endothelial cells 3","Blood & Immune cells 1",25.420216591735
+"Advanced stage 3","Advanced","Endothelial cells 3","Blood & Immune cells 2",22.8221452318091
+"Advanced stage 3","Advanced","Endothelial cells 3","Endothelial cells 1",36.9344552599701
+"Advanced stage 3","Advanced","Endothelial cells 3","Endothelial cells 2",14.0657911716699
+"Advanced stage 3","Advanced","Endothelial cells 3","Endothelial cells 3",19.8857561519602
+"Advanced stage 3","Advanced","Endothelial cells 3","Endothelial cells 4",16.8604011282289
+"Advanced stage 3","Advanced","Endothelial cells 3","Fibroblast & Stromal cells 1",26.1519761808772
+"Advanced stage 3","Advanced","Endothelial cells 3","Fibroblast & Stromal cells 2",33.7692279970313
+"Advanced stage 3","Advanced","Endothelial cells 3","Fibroblast & Stromal cells 3",28.0410278707513
+"Advanced stage 3","Advanced","Endothelial cells 3","Glial cells 1",0
+"Advanced stage 3","Advanced","Endothelial cells 3","Glial cells 2",19.9976295383498
+"Advanced stage 3","Advanced","Endothelial cells 3","Mural cells",22.8643417512926
+"Advanced stage 3","Advanced","Endothelial cells 4","Blood & Immune cells 1",18.4815918278833
+"Advanced stage 3","Advanced","Endothelial cells 4","Blood & Immune cells 2",19.656598612025
+"Advanced stage 3","Advanced","Endothelial cells 4","Endothelial cells 1",29.1913414166509
+"Advanced stage 3","Advanced","Endothelial cells 4","Endothelial cells 2",11.0168380779576
+"Advanced stage 3","Advanced","Endothelial cells 4","Endothelial cells 3",15.555963268158
+"Advanced stage 3","Advanced","Endothelial cells 4","Endothelial cells 4",12.9848736280779
+"Advanced stage 3","Advanced","Endothelial cells 4","Fibroblast & Stromal cells 1",20.6816462256105
+"Advanced stage 3","Advanced","Endothelial cells 4","Fibroblast & Stromal cells 2",26.8158617202062
+"Advanced stage 3","Advanced","Endothelial cells 4","Fibroblast & Stromal cells 3",22.6608748817814
+"Advanced stage 3","Advanced","Endothelial cells 4","Glial cells 1",0
+"Advanced stage 3","Advanced","Endothelial cells 4","Glial cells 2",16.9793588244095
+"Advanced stage 3","Advanced","Endothelial cells 4","Mural cells",18.2768757356054
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 1","Blood & Immune cells 1",9.15131705527277
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 1","Blood & Immune cells 2",14.3478618777025
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 1","Endothelial cells 1",18.5281746855102
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 1","Endothelial cells 2",8.13260312267847
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 1","Endothelial cells 3",9.30680808460986
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 1","Endothelial cells 4",8.45180250599391
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 1",13.4367217605857
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 2",16.6718545075018
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 3",14.6341536300764
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 1","Glial cells 1",0
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 1","Glial cells 2",10.6880956504995
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 1","Mural cells",10.4455939093441
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 2","Blood & Immune cells 1",12.241659349907
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 2","Blood & Immune cells 2",12.8581790190643
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 2","Endothelial cells 1",18.4255913001678
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 2","Endothelial cells 2",11.6820856503731
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 2","Endothelial cells 3",12.4150804646894
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 2","Endothelial cells 4",10.322235960344
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 1",12.1925709025104
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 2",13.2186609363184
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 3",12.1020161899058
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 2","Glial cells 1",0
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 2","Glial cells 2",11.4683821338194
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 2","Mural cells",11.8846361048485
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 3","Blood & Immune cells 1",22.4713167888185
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 3","Blood & Immune cells 2",14.7082914591672
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 3","Endothelial cells 1",26.4737014595171
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 3","Endothelial cells 2",15.4325271724055
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 3","Endothelial cells 3",17.6444470465379
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 3","Endothelial cells 4",12.3793981602193
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 1",15.8129507086288
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 2",23.4910331951123
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 3",18.5306889536903
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 3","Glial cells 1",0
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 3","Glial cells 2",17.181520023867
+"Advanced stage 3","Advanced","Fibroblast & Stromal cells 3","Mural cells",18.921504951501
+"Advanced stage 3","Advanced","Glial cells 1","Blood & Immune cells 1",0
+"Advanced stage 3","Advanced","Glial cells 1","Blood & Immune cells 2",0
+"Advanced stage 3","Advanced","Glial cells 1","Endothelial cells 1",0
+"Advanced stage 3","Advanced","Glial cells 1","Endothelial cells 2",0
+"Advanced stage 3","Advanced","Glial cells 1","Endothelial cells 3",0
+"Advanced stage 3","Advanced","Glial cells 1","Endothelial cells 4",0
+"Advanced stage 3","Advanced","Glial cells 1","Fibroblast & Stromal cells 1",0
+"Advanced stage 3","Advanced","Glial cells 1","Fibroblast & Stromal cells 2",0
+"Advanced stage 3","Advanced","Glial cells 1","Fibroblast & Stromal cells 3",0
+"Advanced stage 3","Advanced","Glial cells 1","Glial cells 1",0
+"Advanced stage 3","Advanced","Glial cells 1","Glial cells 2",0
+"Advanced stage 3","Advanced","Glial cells 1","Mural cells",0
+"Advanced stage 3","Advanced","Glial cells 2","Blood & Immune cells 1",22.5048529996398
+"Advanced stage 3","Advanced","Glial cells 2","Blood & Immune cells 2",25.7296896615283
+"Advanced stage 3","Advanced","Glial cells 2","Endothelial cells 1",36.3676798989973
+"Advanced stage 3","Advanced","Glial cells 2","Endothelial cells 2",18.5317054645605
+"Advanced stage 3","Advanced","Glial cells 2","Endothelial cells 3",18.863214081485
+"Advanced stage 3","Advanced","Glial cells 2","Endothelial cells 4",18.4785561005008
+"Advanced stage 3","Advanced","Glial cells 2","Fibroblast & Stromal cells 1",27.5282982730943
+"Advanced stage 3","Advanced","Glial cells 2","Fibroblast & Stromal cells 2",33.1740331509753
+"Advanced stage 3","Advanced","Glial cells 2","Fibroblast & Stromal cells 3",29.0330957761142
+"Advanced stage 3","Advanced","Glial cells 2","Glial cells 1",0
+"Advanced stage 3","Advanced","Glial cells 2","Glial cells 2",20.1402258656326
+"Advanced stage 3","Advanced","Glial cells 2","Mural cells",20.4400002139862
+"Advanced stage 3","Advanced","Mural cells","Blood & Immune cells 1",16.0350594704367
+"Advanced stage 3","Advanced","Mural cells","Blood & Immune cells 2",22.1448655423588
+"Advanced stage 3","Advanced","Mural cells","Endothelial cells 1",31.0698196880739
+"Advanced stage 3","Advanced","Mural cells","Endothelial cells 2",15.8225182446529
+"Advanced stage 3","Advanced","Mural cells","Endothelial cells 3",15.5034370135385
+"Advanced stage 3","Advanced","Mural cells","Endothelial cells 4",15.85324821747
+"Advanced stage 3","Advanced","Mural cells","Fibroblast & Stromal cells 1",23.8950992282001
+"Advanced stage 3","Advanced","Mural cells","Fibroblast & Stromal cells 2",29.2938317629801
+"Advanced stage 3","Advanced","Mural cells","Fibroblast & Stromal cells 3",24.393568157628
+"Advanced stage 3","Advanced","Mural cells","Glial cells 1",0
+"Advanced stage 3","Advanced","Mural cells","Glial cells 2",16.0945211319693
+"Advanced stage 3","Advanced","Mural cells","Mural cells",16.597960385424
+"Early stage 1","Early","Blood & Immune cells 1","Blood & Immune cells 1",21.8913910793338
+"Early stage 1","Early","Blood & Immune cells 1","Blood & Immune cells 2",10.5855854885947
+"Early stage 1","Early","Blood & Immune cells 1","Endothelial cells 1",26.3185171888029
+"Early stage 1","Early","Blood & Immune cells 1","Endothelial cells 2",9.31124290028479
+"Early stage 1","Early","Blood & Immune cells 1","Endothelial cells 3",13.9625432447831
+"Early stage 1","Early","Blood & Immune cells 1","Endothelial cells 4",12.5133188097733
+"Early stage 1","Early","Blood & Immune cells 1","Fibroblast & Stromal cells 1",26.9462479641631
+"Early stage 1","Early","Blood & Immune cells 1","Fibroblast & Stromal cells 2",21.2996562285495
+"Early stage 1","Early","Blood & Immune cells 1","Fibroblast & Stromal cells 3",20.6077970856297
+"Early stage 1","Early","Blood & Immune cells 1","Glial cells 1",18.0298576750117
+"Early stage 1","Early","Blood & Immune cells 1","Glial cells 2",9.96963810732815
+"Early stage 1","Early","Blood & Immune cells 1","Mural cells",5.29026243579372
+"Early stage 1","Early","Blood & Immune cells 2","Blood & Immune cells 1",13.2096204167027
+"Early stage 1","Early","Blood & Immune cells 2","Blood & Immune cells 2",5.27293070533584
+"Early stage 1","Early","Blood & Immune cells 2","Endothelial cells 1",22.4942389031879
+"Early stage 1","Early","Blood & Immune cells 2","Endothelial cells 2",10.4923645603806
+"Early stage 1","Early","Blood & Immune cells 2","Endothelial cells 3",9.52554934869292
+"Early stage 1","Early","Blood & Immune cells 2","Endothelial cells 4",9.03875988348411
+"Early stage 1","Early","Blood & Immune cells 2","Fibroblast & Stromal cells 1",26.6281532026014
+"Early stage 1","Early","Blood & Immune cells 2","Fibroblast & Stromal cells 2",21.8440146860512
+"Early stage 1","Early","Blood & Immune cells 2","Fibroblast & Stromal cells 3",18.8071934476981
+"Early stage 1","Early","Blood & Immune cells 2","Glial cells 1",16.409966153804
+"Early stage 1","Early","Blood & Immune cells 2","Glial cells 2",8.67892209074768
+"Early stage 1","Early","Blood & Immune cells 2","Mural cells",3.09556814120145
+"Early stage 1","Early","Endothelial cells 1","Blood & Immune cells 1",30.54476127578
+"Early stage 1","Early","Endothelial cells 1","Blood & Immune cells 2",13.0048886671494
+"Early stage 1","Early","Endothelial cells 1","Endothelial cells 1",54.0738299727564
+"Early stage 1","Early","Endothelial cells 1","Endothelial cells 2",22.9024182879509
+"Early stage 1","Early","Endothelial cells 1","Endothelial cells 3",23.273013843993
+"Early stage 1","Early","Endothelial cells 1","Endothelial cells 4",20.8823895169061
+"Early stage 1","Early","Endothelial cells 1","Fibroblast & Stromal cells 1",50.3941741575307
+"Early stage 1","Early","Endothelial cells 1","Fibroblast & Stromal cells 2",45.8346930383132
+"Early stage 1","Early","Endothelial cells 1","Fibroblast & Stromal cells 3",43.9547344444813
+"Early stage 1","Early","Endothelial cells 1","Glial cells 1",38.9639531762434
+"Early stage 1","Early","Endothelial cells 1","Glial cells 2",17.6540512318909
+"Early stage 1","Early","Endothelial cells 1","Mural cells",17.6811049295761
+"Early stage 1","Early","Endothelial cells 2","Blood & Immune cells 1",20.6201098090484
+"Early stage 1","Early","Endothelial cells 2","Blood & Immune cells 2",7.08648962596696
+"Early stage 1","Early","Endothelial cells 2","Endothelial cells 1",34.3698365995459
+"Early stage 1","Early","Endothelial cells 2","Endothelial cells 2",13.8492863518042
+"Early stage 1","Early","Endothelial cells 2","Endothelial cells 3",16.1673002322992
+"Early stage 1","Early","Endothelial cells 2","Endothelial cells 4",13.2496221489524
+"Early stage 1","Early","Endothelial cells 2","Fibroblast & Stromal cells 1",31.0948013652986
+"Early stage 1","Early","Endothelial cells 2","Fibroblast & Stromal cells 2",25.656548016488
+"Early stage 1","Early","Endothelial cells 2","Fibroblast & Stromal cells 3",26.1425335875385
+"Early stage 1","Early","Endothelial cells 2","Glial cells 1",21.8261663260343
+"Early stage 1","Early","Endothelial cells 2","Glial cells 2",10.8848650899972
+"Early stage 1","Early","Endothelial cells 2","Mural cells",11.5118152770659
+"Early stage 1","Early","Endothelial cells 3","Blood & Immune cells 1",20.4205442198671
+"Early stage 1","Early","Endothelial cells 3","Blood & Immune cells 2",7.29321154162121
+"Early stage 1","Early","Endothelial cells 3","Endothelial cells 1",31.7418964828689
+"Early stage 1","Early","Endothelial cells 3","Endothelial cells 2",11.0432229215247
+"Early stage 1","Early","Endothelial cells 3","Endothelial cells 3",14.0891793342872
+"Early stage 1","Early","Endothelial cells 3","Endothelial cells 4",12.9865881806602
+"Early stage 1","Early","Endothelial cells 3","Fibroblast & Stromal cells 1",28.5658023379188
+"Early stage 1","Early","Endothelial cells 3","Fibroblast & Stromal cells 2",24.5089109513032
+"Early stage 1","Early","Endothelial cells 3","Fibroblast & Stromal cells 3",23.5804740831393
+"Early stage 1","Early","Endothelial cells 3","Glial cells 1",21.0780655841733
+"Early stage 1","Early","Endothelial cells 3","Glial cells 2",10.8889284579423
+"Early stage 1","Early","Endothelial cells 3","Mural cells",10.9022626421928
+"Early stage 1","Early","Endothelial cells 4","Blood & Immune cells 1",15.8053169235247
+"Early stage 1","Early","Endothelial cells 4","Blood & Immune cells 2",6.26273339524319
+"Early stage 1","Early","Endothelial cells 4","Endothelial cells 1",28.8456809982232
+"Early stage 1","Early","Endothelial cells 4","Endothelial cells 2",9.87769099577654
+"Early stage 1","Early","Endothelial cells 4","Endothelial cells 3",11.8411071800313
+"Early stage 1","Early","Endothelial cells 4","Endothelial cells 4",11.2403441124194
+"Early stage 1","Early","Endothelial cells 4","Fibroblast & Stromal cells 1",27.8320535738275
+"Early stage 1","Early","Endothelial cells 4","Fibroblast & Stromal cells 2",23.3611442681555
+"Early stage 1","Early","Endothelial cells 4","Fibroblast & Stromal cells 3",23.2243778091967
+"Early stage 1","Early","Endothelial cells 4","Glial cells 1",19.8062162955273
+"Early stage 1","Early","Endothelial cells 4","Glial cells 2",9.82583293233395
+"Early stage 1","Early","Endothelial cells 4","Mural cells",9.27262695091669
+"Early stage 1","Early","Fibroblast & Stromal cells 1","Blood & Immune cells 1",20.3802331234494
+"Early stage 1","Early","Fibroblast & Stromal cells 1","Blood & Immune cells 2",10.765976484398
+"Early stage 1","Early","Fibroblast & Stromal cells 1","Endothelial cells 1",45.0592479536028
+"Early stage 1","Early","Fibroblast & Stromal cells 1","Endothelial cells 2",18.1525979688367
+"Early stage 1","Early","Fibroblast & Stromal cells 1","Endothelial cells 3",17.04758763766
+"Early stage 1","Early","Fibroblast & Stromal cells 1","Endothelial cells 4",17.2346701865922
+"Early stage 1","Early","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 1",44.9612229149822
+"Early stage 1","Early","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 2",41.5952684495364
+"Early stage 1","Early","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 3",39.5144160703241
+"Early stage 1","Early","Fibroblast & Stromal cells 1","Glial cells 1",34.5216465723611
+"Early stage 1","Early","Fibroblast & Stromal cells 1","Glial cells 2",14.8258570122112
+"Early stage 1","Early","Fibroblast & Stromal cells 1","Mural cells",12.8331435258233
+"Early stage 1","Early","Fibroblast & Stromal cells 2","Blood & Immune cells 1",25.2017996161292
+"Early stage 1","Early","Fibroblast & Stromal cells 2","Blood & Immune cells 2",10.5332367962791
+"Early stage 1","Early","Fibroblast & Stromal cells 2","Endothelial cells 1",44.7362791266287
+"Early stage 1","Early","Fibroblast & Stromal cells 2","Endothelial cells 2",22.0272475256884
+"Early stage 1","Early","Fibroblast & Stromal cells 2","Endothelial cells 3",19.7961909956086
+"Early stage 1","Early","Fibroblast & Stromal cells 2","Endothelial cells 4",17.5547898259089
+"Early stage 1","Early","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 1",41.2625098072843
+"Early stage 1","Early","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 2",41.1901720588849
+"Early stage 1","Early","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 3",38.86546255122
+"Early stage 1","Early","Fibroblast & Stromal cells 2","Glial cells 1",29.8815172902627
+"Early stage 1","Early","Fibroblast & Stromal cells 2","Glial cells 2",15.1903648974832
+"Early stage 1","Early","Fibroblast & Stromal cells 2","Mural cells",15.0296062602876
+"Early stage 1","Early","Fibroblast & Stromal cells 3","Blood & Immune cells 1",13.0044432894966
+"Early stage 1","Early","Fibroblast & Stromal cells 3","Blood & Immune cells 2",7.6336176394573
+"Early stage 1","Early","Fibroblast & Stromal cells 3","Endothelial cells 1",34.3858575405134
+"Early stage 1","Early","Fibroblast & Stromal cells 3","Endothelial cells 2",19.5250567356166
+"Early stage 1","Early","Fibroblast & Stromal cells 3","Endothelial cells 3",9.74936282691197
+"Early stage 1","Early","Fibroblast & Stromal cells 3","Endothelial cells 4",13.2300622809531
+"Early stage 1","Early","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 1",33.654411872879
+"Early stage 1","Early","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 2",32.894175045059
+"Early stage 1","Early","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 3",27.5431484570705
+"Early stage 1","Early","Fibroblast & Stromal cells 3","Glial cells 1",25.9146557297429
+"Early stage 1","Early","Fibroblast & Stromal cells 3","Glial cells 2",9.24214293605883
+"Early stage 1","Early","Fibroblast & Stromal cells 3","Mural cells",13.5618553549852
+"Early stage 1","Early","Glial cells 1","Blood & Immune cells 1",11.058409835483
+"Early stage 1","Early","Glial cells 1","Blood & Immune cells 2",5.22114034551847
+"Early stage 1","Early","Glial cells 1","Endothelial cells 1",19.0607389425543
+"Early stage 1","Early","Glial cells 1","Endothelial cells 2",7.11438103118949
+"Early stage 1","Early","Glial cells 1","Endothelial cells 3",7.66368503031958
+"Early stage 1","Early","Glial cells 1","Endothelial cells 4",6.92323934430211
+"Early stage 1","Early","Glial cells 1","Fibroblast & Stromal cells 1",18.0609157119705
+"Early stage 1","Early","Glial cells 1","Fibroblast & Stromal cells 2",16.4204761162239
+"Early stage 1","Early","Glial cells 1","Fibroblast & Stromal cells 3",15.6313208515645
+"Early stage 1","Early","Glial cells 1","Glial cells 1",14.468255440186
+"Early stage 1","Early","Glial cells 1","Glial cells 2",5.92901599098331
+"Early stage 1","Early","Glial cells 1","Mural cells",6.84734765598987
+"Early stage 1","Early","Glial cells 2","Blood & Immune cells 1",12.9305636366313
+"Early stage 1","Early","Glial cells 2","Blood & Immune cells 2",9.64343575014343
+"Early stage 1","Early","Glial cells 2","Endothelial cells 1",48.1561668602075
+"Early stage 1","Early","Glial cells 2","Endothelial cells 2",12.5506326267179
+"Early stage 1","Early","Glial cells 2","Endothelial cells 3",14.8726395872188
+"Early stage 1","Early","Glial cells 2","Endothelial cells 4",18.2776467658869
+"Early stage 1","Early","Glial cells 2","Fibroblast & Stromal cells 1",55.0749732733252
+"Early stage 1","Early","Glial cells 2","Fibroblast & Stromal cells 2",45.930444197697
+"Early stage 1","Early","Glial cells 2","Fibroblast & Stromal cells 3",44.2897832173008
+"Early stage 1","Early","Glial cells 2","Glial cells 1",39.0392522925275
+"Early stage 1","Early","Glial cells 2","Glial cells 2",17.4163129396642
+"Early stage 1","Early","Glial cells 2","Mural cells",7.436115948679
+"Early stage 1","Early","Mural cells","Blood & Immune cells 1",16.4861856835979
+"Early stage 1","Early","Mural cells","Blood & Immune cells 2",10.1394069978022
+"Early stage 1","Early","Mural cells","Endothelial cells 1",47.5256192833981
+"Early stage 1","Early","Mural cells","Endothelial cells 2",23.8641550445351
+"Early stage 1","Early","Mural cells","Endothelial cells 3",14.0258630392277
+"Early stage 1","Early","Mural cells","Endothelial cells 4",18.310367439564
+"Early stage 1","Early","Mural cells","Fibroblast & Stromal cells 1",49.2761062091879
+"Early stage 1","Early","Mural cells","Fibroblast & Stromal cells 2",43.9553345665512
+"Early stage 1","Early","Mural cells","Fibroblast & Stromal cells 3",42.5853000859829
+"Early stage 1","Early","Mural cells","Glial cells 1",33.5463067500289
+"Early stage 1","Early","Mural cells","Glial cells 2",16.4095378067574
+"Early stage 1","Early","Mural cells","Mural cells",9.78347505711254
+"Advanced stage 1","Advanced","Blood & Immune cells 1","Blood & Immune cells 1",13.7162826967108
+"Advanced stage 1","Advanced","Blood & Immune cells 1","Blood & Immune cells 2",5.49723931571959
+"Advanced stage 1","Advanced","Blood & Immune cells 1","Endothelial cells 1",22.3710287341544
+"Advanced stage 1","Advanced","Blood & Immune cells 1","Endothelial cells 2",9.55053797854864
+"Advanced stage 1","Advanced","Blood & Immune cells 1","Endothelial cells 3",11.5591442185979
+"Advanced stage 1","Advanced","Blood & Immune cells 1","Endothelial cells 4",11.0012566285753
+"Advanced stage 1","Advanced","Blood & Immune cells 1","Fibroblast & Stromal cells 1",18.1496560617763
+"Advanced stage 1","Advanced","Blood & Immune cells 1","Fibroblast & Stromal cells 2",18.4463021073754
+"Advanced stage 1","Advanced","Blood & Immune cells 1","Fibroblast & Stromal cells 3",15.8202641532211
+"Advanced stage 1","Advanced","Blood & Immune cells 1","Glial cells 1",9.05441321206003
+"Advanced stage 1","Advanced","Blood & Immune cells 1","Glial cells 2",8.64335364906981
+"Advanced stage 1","Advanced","Blood & Immune cells 1","Mural cells",9.33413489586796
+"Advanced stage 1","Advanced","Blood & Immune cells 2","Blood & Immune cells 1",7.55243050543672
+"Advanced stage 1","Advanced","Blood & Immune cells 2","Blood & Immune cells 2",2.50061487028724
+"Advanced stage 1","Advanced","Blood & Immune cells 2","Endothelial cells 1",17.7877236123544
+"Advanced stage 1","Advanced","Blood & Immune cells 2","Endothelial cells 2",7.63160459905818
+"Advanced stage 1","Advanced","Blood & Immune cells 2","Endothelial cells 3",6.27245888049159
+"Advanced stage 1","Advanced","Blood & Immune cells 2","Endothelial cells 4",7.64380340937346
+"Advanced stage 1","Advanced","Blood & Immune cells 2","Fibroblast & Stromal cells 1",16.578121793775
+"Advanced stage 1","Advanced","Blood & Immune cells 2","Fibroblast & Stromal cells 2",15.9653634591969
+"Advanced stage 1","Advanced","Blood & Immune cells 2","Fibroblast & Stromal cells 3",12.8619214756725
+"Advanced stage 1","Advanced","Blood & Immune cells 2","Glial cells 1",5.63105749152803
+"Advanced stage 1","Advanced","Blood & Immune cells 2","Glial cells 2",7.39328720177033
+"Advanced stage 1","Advanced","Blood & Immune cells 2","Mural cells",5.3824103638723
+"Advanced stage 1","Advanced","Endothelial cells 1","Blood & Immune cells 1",33.985379554011
+"Advanced stage 1","Advanced","Endothelial cells 1","Blood & Immune cells 2",8.82366545809099
+"Advanced stage 1","Advanced","Endothelial cells 1","Endothelial cells 1",57.1858995101956
+"Advanced stage 1","Advanced","Endothelial cells 1","Endothelial cells 2",23.3501209596384
+"Advanced stage 1","Advanced","Endothelial cells 1","Endothelial cells 3",25.5856033373184
+"Advanced stage 1","Advanced","Endothelial cells 1","Endothelial cells 4",23.2037492802646
+"Advanced stage 1","Advanced","Endothelial cells 1","Fibroblast & Stromal cells 1",44.7179510983738
+"Advanced stage 1","Advanced","Endothelial cells 1","Fibroblast & Stromal cells 2",43.4467055890337
+"Advanced stage 1","Advanced","Endothelial cells 1","Fibroblast & Stromal cells 3",39.4093878705729
+"Advanced stage 1","Advanced","Endothelial cells 1","Glial cells 1",19.3818446598374
+"Advanced stage 1","Advanced","Endothelial cells 1","Glial cells 2",20.4320818809335
+"Advanced stage 1","Advanced","Endothelial cells 1","Mural cells",24.387319767508
+"Advanced stage 1","Advanced","Endothelial cells 2","Blood & Immune cells 1",27.2958178219312
+"Advanced stage 1","Advanced","Endothelial cells 2","Blood & Immune cells 2",6.12733532661644
+"Advanced stage 1","Advanced","Endothelial cells 2","Endothelial cells 1",32.4209327894082
+"Advanced stage 1","Advanced","Endothelial cells 2","Endothelial cells 2",13.1889784311706
+"Advanced stage 1","Advanced","Endothelial cells 2","Endothelial cells 3",16.8963579019735
+"Advanced stage 1","Advanced","Endothelial cells 2","Endothelial cells 4",12.8329100823433
+"Advanced stage 1","Advanced","Endothelial cells 2","Fibroblast & Stromal cells 1",23.6949984340296
+"Advanced stage 1","Advanced","Endothelial cells 2","Fibroblast & Stromal cells 2",22.6550365245759
+"Advanced stage 1","Advanced","Endothelial cells 2","Fibroblast & Stromal cells 3",22.9066401427632
+"Advanced stage 1","Advanced","Endothelial cells 2","Glial cells 1",9.70920947924196
+"Advanced stage 1","Advanced","Endothelial cells 2","Glial cells 2",9.85987903859405
+"Advanced stage 1","Advanced","Endothelial cells 2","Mural cells",15.2196443988729
+"Advanced stage 1","Advanced","Endothelial cells 3","Blood & Immune cells 1",34.0442500040217
+"Advanced stage 1","Advanced","Endothelial cells 3","Blood & Immune cells 2",8.50682856027458
+"Advanced stage 1","Advanced","Endothelial cells 3","Endothelial cells 1",41.3058830621654
+"Advanced stage 1","Advanced","Endothelial cells 3","Endothelial cells 2",16.8592696644728
+"Advanced stage 1","Advanced","Endothelial cells 3","Endothelial cells 3",22.6747163728761
+"Advanced stage 1","Advanced","Endothelial cells 3","Endothelial cells 4",18.6057726698445
+"Advanced stage 1","Advanced","Endothelial cells 3","Fibroblast & Stromal cells 1",30.6361221525832
+"Advanced stage 1","Advanced","Endothelial cells 3","Fibroblast & Stromal cells 2",28.9319544268294
+"Advanced stage 1","Advanced","Endothelial cells 3","Fibroblast & Stromal cells 3",29.0906597152879
+"Advanced stage 1","Advanced","Endothelial cells 3","Glial cells 1",11.4509602023142
+"Advanced stage 1","Advanced","Endothelial cells 3","Glial cells 2",12.3249674574231
+"Advanced stage 1","Advanced","Endothelial cells 3","Mural cells",17.0220077185593
+"Advanced stage 1","Advanced","Endothelial cells 4","Blood & Immune cells 1",20.1899549670429
+"Advanced stage 1","Advanced","Endothelial cells 4","Blood & Immune cells 2",4.94813914663321
+"Advanced stage 1","Advanced","Endothelial cells 4","Endothelial cells 1",26.7773515440388
+"Advanced stage 1","Advanced","Endothelial cells 4","Endothelial cells 2",10.2266047679931
+"Advanced stage 1","Advanced","Endothelial cells 4","Endothelial cells 3",13.0865305958191
+"Advanced stage 1","Advanced","Endothelial cells 4","Endothelial cells 4",11.3312067622273
+"Advanced stage 1","Advanced","Endothelial cells 4","Fibroblast & Stromal cells 1",20.4266576524402
+"Advanced stage 1","Advanced","Endothelial cells 4","Fibroblast & Stromal cells 2",19.4586956052745
+"Advanced stage 1","Advanced","Endothelial cells 4","Fibroblast & Stromal cells 3",18.2763129770866
+"Advanced stage 1","Advanced","Endothelial cells 4","Glial cells 1",8.22514485574199
+"Advanced stage 1","Advanced","Endothelial cells 4","Glial cells 2",8.70550276619818
+"Advanced stage 1","Advanced","Endothelial cells 4","Mural cells",11.7781581372865
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 1","Blood & Immune cells 1",16.7367132391278
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 1","Blood & Immune cells 2",4.79405479726138
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 1","Endothelial cells 1",32.3082864882797
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 1","Endothelial cells 2",14.0249284955926
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 1","Endothelial cells 3",14.3826889210111
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 1","Endothelial cells 4",13.3868654148179
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 1",25.9018014299858
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 2",25.2068891187914
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 3",21.9224085151216
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 1","Glial cells 1",10.8719301112288
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 1","Glial cells 2",12.6531480790509
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 1","Mural cells",13.3507103003526
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 2","Blood & Immune cells 1",18.5914195356088
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 2","Blood & Immune cells 2",5.93184539508378
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 2","Endothelial cells 1",40.2450596471373
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 2","Endothelial cells 2",16.9677760382321
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 2","Endothelial cells 3",16.572556825565
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 2","Endothelial cells 4",16.5134225848235
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 1",33.1661699121501
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 2",32.1481708203869
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 3",27.7514214449591
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 2","Glial cells 1",13.1854131266376
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 2","Glial cells 2",15.7861371972877
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 2","Mural cells",15.9379181875855
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 3","Blood & Immune cells 1",22.3025203944221
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 3","Blood & Immune cells 2",5.35718207922741
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 3","Endothelial cells 1",40.4009181397349
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 3","Endothelial cells 2",15.5513411714153
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 3","Endothelial cells 3",17.6596722786287
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 3","Endothelial cells 4",16.8948113172932
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 1",32.9949396480152
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 2",31.7358055264669
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 3",29.4688995640606
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 3","Glial cells 1",13.3442289343932
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 3","Glial cells 2",15.0313254672446
+"Advanced stage 1","Advanced","Fibroblast & Stromal cells 3","Mural cells",17.000900512152
+"Advanced stage 1","Advanced","Glial cells 1","Blood & Immune cells 1",8.73913496572813
+"Advanced stage 1","Advanced","Glial cells 1","Blood & Immune cells 2",3.0598989205656
+"Advanced stage 1","Advanced","Glial cells 1","Endothelial cells 1",20.1876981786397
+"Advanced stage 1","Advanced","Glial cells 1","Endothelial cells 2",6.01851993453496
+"Advanced stage 1","Advanced","Glial cells 1","Endothelial cells 3",7.25409941152873
+"Advanced stage 1","Advanced","Glial cells 1","Endothelial cells 4",8.25142567116095
+"Advanced stage 1","Advanced","Glial cells 1","Fibroblast & Stromal cells 1",17.4084899664124
+"Advanced stage 1","Advanced","Glial cells 1","Fibroblast & Stromal cells 2",16.4594225205016
+"Advanced stage 1","Advanced","Glial cells 1","Fibroblast & Stromal cells 3",15.5177669703444
+"Advanced stage 1","Advanced","Glial cells 1","Glial cells 1",5.94800207033516
+"Advanced stage 1","Advanced","Glial cells 1","Glial cells 2",7.78839023225025
+"Advanced stage 1","Advanced","Glial cells 1","Mural cells",6.89024531668164
+"Advanced stage 1","Advanced","Glial cells 2","Blood & Immune cells 1",18.4940598875944
+"Advanced stage 1","Advanced","Glial cells 2","Blood & Immune cells 2",5.96609402343148
+"Advanced stage 1","Advanced","Glial cells 2","Endothelial cells 1",42.4757360583957
+"Advanced stage 1","Advanced","Glial cells 2","Endothelial cells 2",12.3100527123383
+"Advanced stage 1","Advanced","Glial cells 2","Endothelial cells 3",14.7391159826326
+"Advanced stage 1","Advanced","Glial cells 2","Endothelial cells 4",17.5767433649274
+"Advanced stage 1","Advanced","Glial cells 2","Fibroblast & Stromal cells 1",37.8141600929429
+"Advanced stage 1","Advanced","Glial cells 2","Fibroblast & Stromal cells 2",37.2210164220602
+"Advanced stage 1","Advanced","Glial cells 2","Fibroblast & Stromal cells 3",32.9786434701275
+"Advanced stage 1","Advanced","Glial cells 2","Glial cells 1",16.4468494206272
+"Advanced stage 1","Advanced","Glial cells 2","Glial cells 2",16.1845413367222
+"Advanced stage 1","Advanced","Glial cells 2","Mural cells",14.4542819508316
+"Advanced stage 1","Advanced","Mural cells","Blood & Immune cells 1",16.7707243442773
+"Advanced stage 1","Advanced","Mural cells","Blood & Immune cells 2",6.95251738605256
+"Advanced stage 1","Advanced","Mural cells","Endothelial cells 1",42.1836125570912
+"Advanced stage 1","Advanced","Mural cells","Endothelial cells 2",20.8461993620049
+"Advanced stage 1","Advanced","Mural cells","Endothelial cells 3",16.9074300546309
+"Advanced stage 1","Advanced","Mural cells","Endothelial cells 4",17.057661497528
+"Advanced stage 1","Advanced","Mural cells","Fibroblast & Stromal cells 1",35.3499167383959
+"Advanced stage 1","Advanced","Mural cells","Fibroblast & Stromal cells 2",33.7722578086021
+"Advanced stage 1","Advanced","Mural cells","Fibroblast & Stromal cells 3",31.8394226357311
+"Advanced stage 1","Advanced","Mural cells","Glial cells 1",11.8742887878394
+"Advanced stage 1","Advanced","Mural cells","Glial cells 2",17.4498610014347
+"Advanced stage 1","Advanced","Mural cells","Mural cells",14.9222990965731
+"Early stage 3","Early","Blood & Immune cells 1","Blood & Immune cells 1",16.3572358666409
+"Early stage 3","Early","Blood & Immune cells 1","Blood & Immune cells 2",12.7603822629973
+"Early stage 3","Early","Blood & Immune cells 1","Endothelial cells 1",23.8862146741719
+"Early stage 3","Early","Blood & Immune cells 1","Endothelial cells 2",12.6240972142444
+"Early stage 3","Early","Blood & Immune cells 1","Endothelial cells 3",15.4105672446127
+"Early stage 3","Early","Blood & Immune cells 1","Endothelial cells 4",13.553169979089
+"Early stage 3","Early","Blood & Immune cells 1","Fibroblast & Stromal cells 1",20.0236527467536
+"Early stage 3","Early","Blood & Immune cells 1","Fibroblast & Stromal cells 2",18.2100354406631
+"Early stage 3","Early","Blood & Immune cells 1","Fibroblast & Stromal cells 3",20.5611508092008
+"Early stage 3","Early","Blood & Immune cells 1","Glial cells 1",9.13268684164334
+"Early stage 3","Early","Blood & Immune cells 1","Glial cells 2",12.8968100622517
+"Early stage 3","Early","Blood & Immune cells 1","Mural cells",12.4965973901656
+"Early stage 3","Early","Blood & Immune cells 2","Blood & Immune cells 1",16.7701145230923
+"Early stage 3","Early","Blood & Immune cells 2","Blood & Immune cells 2",13.6659994311849
+"Early stage 3","Early","Blood & Immune cells 2","Endothelial cells 1",25.2672405923244
+"Early stage 3","Early","Blood & Immune cells 2","Endothelial cells 2",13.6529771948542
+"Early stage 3","Early","Blood & Immune cells 2","Endothelial cells 3",15.9560556667706
+"Early stage 3","Early","Blood & Immune cells 2","Endothelial cells 4",14.2267276483149
+"Early stage 3","Early","Blood & Immune cells 2","Fibroblast & Stromal cells 1",22.1402357749927
+"Early stage 3","Early","Blood & Immune cells 2","Fibroblast & Stromal cells 2",20.5045649145385
+"Early stage 3","Early","Blood & Immune cells 2","Fibroblast & Stromal cells 3",23.0719239207458
+"Early stage 3","Early","Blood & Immune cells 2","Glial cells 1",8.82747244388512
+"Early stage 3","Early","Blood & Immune cells 2","Glial cells 2",14.4349480910459
+"Early stage 3","Early","Blood & Immune cells 2","Mural cells",13.717971308353
+"Early stage 3","Early","Endothelial cells 1","Blood & Immune cells 1",40.6851089020399
+"Early stage 3","Early","Endothelial cells 1","Blood & Immune cells 2",30.3837959968734
+"Early stage 3","Early","Endothelial cells 1","Endothelial cells 1",57.0067314185043
+"Early stage 3","Early","Endothelial cells 1","Endothelial cells 2",29.6367652684905
+"Early stage 3","Early","Endothelial cells 1","Endothelial cells 3",36.0094614785908
+"Early stage 3","Early","Endothelial cells 1","Endothelial cells 4",28.7557161215976
+"Early stage 3","Early","Endothelial cells 1","Fibroblast & Stromal cells 1",46.5630088598156
+"Early stage 3","Early","Endothelial cells 1","Fibroblast & Stromal cells 2",42.2985977739695
+"Early stage 3","Early","Endothelial cells 1","Fibroblast & Stromal cells 3",48.7251729267095
+"Early stage 3","Early","Endothelial cells 1","Glial cells 1",19.7899973111774
+"Early stage 3","Early","Endothelial cells 1","Glial cells 2",28.9885126145298
+"Early stage 3","Early","Endothelial cells 1","Mural cells",33.5694367502677
+"Early stage 3","Early","Endothelial cells 2","Blood & Immune cells 1",31.4259245994359
+"Early stage 3","Early","Endothelial cells 2","Blood & Immune cells 2",17.9615604538571
+"Early stage 3","Early","Endothelial cells 2","Endothelial cells 1",33.846457509273
+"Early stage 3","Early","Endothelial cells 2","Endothelial cells 2",18.0837730403226
+"Early stage 3","Early","Endothelial cells 2","Endothelial cells 3",23.9244231921913
+"Early stage 3","Early","Endothelial cells 2","Endothelial cells 4",14.9292247440732
+"Early stage 3","Early","Endothelial cells 2","Fibroblast & Stromal cells 1",23.1925942881916
+"Early stage 3","Early","Endothelial cells 2","Fibroblast & Stromal cells 2",19.7399817124362
+"Early stage 3","Early","Endothelial cells 2","Fibroblast & Stromal cells 3",26.5550149907979
+"Early stage 3","Early","Endothelial cells 2","Glial cells 1",9.58867101994231
+"Early stage 3","Early","Endothelial cells 2","Glial cells 2",13.2044823958603
+"Early stage 3","Early","Endothelial cells 2","Mural cells",21.1295254283905
+"Early stage 3","Early","Endothelial cells 3","Blood & Immune cells 1",33.8982087863235
+"Early stage 3","Early","Endothelial cells 3","Blood & Immune cells 2",21.9656454764042
+"Early stage 3","Early","Endothelial cells 3","Endothelial cells 1",40.9627815086643
+"Early stage 3","Early","Endothelial cells 3","Endothelial cells 2",21.8714230226248
+"Early stage 3","Early","Endothelial cells 3","Endothelial cells 3",27.3777246282404
+"Early stage 3","Early","Endothelial cells 3","Endothelial cells 4",19.740004271518
+"Early stage 3","Early","Endothelial cells 3","Fibroblast & Stromal cells 1",31.140139458289
+"Early stage 3","Early","Endothelial cells 3","Fibroblast & Stromal cells 2",27.1910472694773
+"Early stage 3","Early","Endothelial cells 3","Fibroblast & Stromal cells 3",33.6871813950959
+"Early stage 3","Early","Endothelial cells 3","Glial cells 1",12.674281411107
+"Early stage 3","Early","Endothelial cells 3","Glial cells 2",18.0675832103211
+"Early stage 3","Early","Endothelial cells 3","Mural cells",24.7861184020425
+"Early stage 3","Early","Endothelial cells 4","Blood & Immune cells 1",23.919175658279
+"Early stage 3","Early","Endothelial cells 4","Blood & Immune cells 2",15.7635550232097
+"Early stage 3","Early","Endothelial cells 4","Endothelial cells 1",28.5018704617504
+"Early stage 3","Early","Endothelial cells 4","Endothelial cells 2",14.6785720247114
+"Early stage 3","Early","Endothelial cells 4","Endothelial cells 3",19.3094181486917
+"Early stage 3","Early","Endothelial cells 4","Endothelial cells 4",13.8817991963643
+"Early stage 3","Early","Endothelial cells 4","Fibroblast & Stromal cells 1",21.2920537484799
+"Early stage 3","Early","Endothelial cells 4","Fibroblast & Stromal cells 2",18.9119192344674
+"Early stage 3","Early","Endothelial cells 4","Fibroblast & Stromal cells 3",22.9281586027449
+"Early stage 3","Early","Endothelial cells 4","Glial cells 1",9.23748887169422
+"Early stage 3","Early","Endothelial cells 4","Glial cells 2",13.6684454191285
+"Early stage 3","Early","Endothelial cells 4","Mural cells",18.5065886297086
+"Early stage 3","Early","Fibroblast & Stromal cells 1","Blood & Immune cells 1",18.5571340482359
+"Early stage 3","Early","Fibroblast & Stromal cells 1","Blood & Immune cells 2",14.4555943169386
+"Early stage 3","Early","Fibroblast & Stromal cells 1","Endothelial cells 1",28.5808172116121
+"Early stage 3","Early","Fibroblast & Stromal cells 1","Endothelial cells 2",16.9010333323698
+"Early stage 3","Early","Fibroblast & Stromal cells 1","Endothelial cells 3",18.9158941522151
+"Early stage 3","Early","Fibroblast & Stromal cells 1","Endothelial cells 4",15.0809786091844
+"Early stage 3","Early","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 1",23.2645468827718
+"Early stage 3","Early","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 2",21.9771682602268
+"Early stage 3","Early","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 3",24.0451673161974
+"Early stage 3","Early","Fibroblast & Stromal cells 1","Glial cells 1",10.5622169006532
+"Early stage 3","Early","Fibroblast & Stromal cells 1","Glial cells 2",16.8446439072889
+"Early stage 3","Early","Fibroblast & Stromal cells 1","Mural cells",16.3488797172144
+"Early stage 3","Early","Fibroblast & Stromal cells 2","Blood & Immune cells 1",21.8421720751518
+"Early stage 3","Early","Fibroblast & Stromal cells 2","Blood & Immune cells 2",18.3899959406434
+"Early stage 3","Early","Fibroblast & Stromal cells 2","Endothelial cells 1",35.2235944846345
+"Early stage 3","Early","Fibroblast & Stromal cells 2","Endothelial cells 2",19.8284260816364
+"Early stage 3","Early","Fibroblast & Stromal cells 2","Endothelial cells 3",22.4255117715061
+"Early stage 3","Early","Fibroblast & Stromal cells 2","Endothelial cells 4",18.3404157167385
+"Early stage 3","Early","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 1",30.0384186019611
+"Early stage 3","Early","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 2",27.8875599559664
+"Early stage 3","Early","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 3",31.6531601789368
+"Early stage 3","Early","Fibroblast & Stromal cells 2","Glial cells 1",12.4429488151833
+"Early stage 3","Early","Fibroblast & Stromal cells 2","Glial cells 2",20.1163943801418
+"Early stage 3","Early","Fibroblast & Stromal cells 2","Mural cells",19.6764731790178
+"Early stage 3","Early","Fibroblast & Stromal cells 3","Blood & Immune cells 1",15.3291750622539
+"Early stage 3","Early","Fibroblast & Stromal cells 3","Blood & Immune cells 2",12.8458748712417
+"Early stage 3","Early","Fibroblast & Stromal cells 3","Endothelial cells 1",21.839555600241
+"Early stage 3","Early","Fibroblast & Stromal cells 3","Endothelial cells 2",10.8220642989216
+"Early stage 3","Early","Fibroblast & Stromal cells 3","Endothelial cells 3",13.8678838847999
+"Early stage 3","Early","Fibroblast & Stromal cells 3","Endothelial cells 4",10.9937602595877
+"Early stage 3","Early","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 1",19.86889497239
+"Early stage 3","Early","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 2",17.4783974569651
+"Early stage 3","Early","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 3",19.4544126293363
+"Early stage 3","Early","Fibroblast & Stromal cells 3","Glial cells 1",7.67664328009814
+"Early stage 3","Early","Fibroblast & Stromal cells 3","Glial cells 2",11.5182792724871
+"Early stage 3","Early","Fibroblast & Stromal cells 3","Mural cells",13.1371680456604
+"Early stage 3","Early","Glial cells 1","Blood & Immune cells 1",13.8043518661599
+"Early stage 3","Early","Glial cells 1","Blood & Immune cells 2",13.4938910661063
+"Early stage 3","Early","Glial cells 1","Endothelial cells 1",22.7564983276163
+"Early stage 3","Early","Glial cells 1","Endothelial cells 2",10.658461930595
+"Early stage 3","Early","Glial cells 1","Endothelial cells 3",13.3140552438574
+"Early stage 3","Early","Glial cells 1","Endothelial cells 4",11.7944403059917
+"Early stage 3","Early","Glial cells 1","Fibroblast & Stromal cells 1",20.4696704304824
+"Early stage 3","Early","Glial cells 1","Fibroblast & Stromal cells 2",18.1913740549438
+"Early stage 3","Early","Glial cells 1","Fibroblast & Stromal cells 3",20.8399612762593
+"Early stage 3","Early","Glial cells 1","Glial cells 1",8.49283095007101
+"Early stage 3","Early","Glial cells 1","Glial cells 2",12.9118172794589
+"Early stage 3","Early","Glial cells 1","Mural cells",11.9925032621561
+"Early stage 3","Early","Glial cells 2","Blood & Immune cells 1",23.8987105421143
+"Early stage 3","Early","Glial cells 2","Blood & Immune cells 2",24.5909540617893
+"Early stage 3","Early","Glial cells 2","Endothelial cells 1",44.2263899843454
+"Early stage 3","Early","Glial cells 2","Endothelial cells 2",19.4582998324432
+"Early stage 3","Early","Glial cells 2","Endothelial cells 3",24.4748287339662
+"Early stage 3","Early","Glial cells 2","Endothelial cells 4",23.2959152939704
+"Early stage 3","Early","Glial cells 2","Fibroblast & Stromal cells 1",41.3652447507374
+"Early stage 3","Early","Glial cells 2","Fibroblast & Stromal cells 2",37.0948474424131
+"Early stage 3","Early","Glial cells 2","Fibroblast & Stromal cells 3",41.7595681403832
+"Early stage 3","Early","Glial cells 2","Glial cells 1",15.8269643142132
+"Early stage 3","Early","Glial cells 2","Glial cells 2",22.8070276785053
+"Early stage 3","Early","Glial cells 2","Mural cells",23.1106049926804
+"Early stage 3","Early","Mural cells","Blood & Immune cells 1",22.8886984622341
+"Early stage 3","Early","Mural cells","Blood & Immune cells 2",19.4649285939444
+"Early stage 3","Early","Mural cells","Endothelial cells 1",38.7181663605343
+"Early stage 3","Early","Mural cells","Endothelial cells 2",24.681730232422
+"Early stage 3","Early","Mural cells","Endothelial cells 3",24.1536039299302
+"Early stage 3","Early","Mural cells","Endothelial cells 4",20.4302117707262
+"Early stage 3","Early","Mural cells","Fibroblast & Stromal cells 1",33.4629798615721
+"Early stage 3","Early","Mural cells","Fibroblast & Stromal cells 2",30.9738170551547
+"Early stage 3","Early","Mural cells","Fibroblast & Stromal cells 3",34.0202220853212
+"Early stage 3","Early","Mural cells","Glial cells 1",13.0977883262407
+"Early stage 3","Early","Mural cells","Glial cells 2",22.2574645024305
+"Early stage 3","Early","Mural cells","Mural cells",19.834185156447
+"Healthy 1","Healthy","Blood & Immune cells 1","Blood & Immune cells 1",18.1934218284965
+"Healthy 1","Healthy","Blood & Immune cells 1","Blood & Immune cells 2",8.22682414182743
+"Healthy 1","Healthy","Blood & Immune cells 1","Endothelial cells 1",29.1673875094059
+"Healthy 1","Healthy","Blood & Immune cells 1","Endothelial cells 2",11.2537874383048
+"Healthy 1","Healthy","Blood & Immune cells 1","Endothelial cells 3",16.7349999153579
+"Healthy 1","Healthy","Blood & Immune cells 1","Endothelial cells 4",14.1261618609762
+"Healthy 1","Healthy","Blood & Immune cells 1","Fibroblast & Stromal cells 1",25.7593574775398
+"Healthy 1","Healthy","Blood & Immune cells 1","Fibroblast & Stromal cells 2",20.0658133996273
+"Healthy 1","Healthy","Blood & Immune cells 1","Fibroblast & Stromal cells 3",22.2041229262621
+"Healthy 1","Healthy","Blood & Immune cells 1","Glial cells 1",11.5477418193343
+"Healthy 1","Healthy","Blood & Immune cells 1","Glial cells 2",15.1156153854296
+"Healthy 1","Healthy","Blood & Immune cells 1","Mural cells",9.65794019792462
+"Healthy 1","Healthy","Blood & Immune cells 2","Blood & Immune cells 1",15.3048210032721
+"Healthy 1","Healthy","Blood & Immune cells 2","Blood & Immune cells 2",5.09551999195999
+"Healthy 1","Healthy","Blood & Immune cells 2","Endothelial cells 1",21.6162543927528
+"Healthy 1","Healthy","Blood & Immune cells 2","Endothelial cells 2",12.1701862418108
+"Healthy 1","Healthy","Blood & Immune cells 2","Endothelial cells 3",10.0460988083013
+"Healthy 1","Healthy","Blood & Immune cells 2","Endothelial cells 4",8.81085644250556
+"Healthy 1","Healthy","Blood & Immune cells 2","Fibroblast & Stromal cells 1",20.0529232588686
+"Healthy 1","Healthy","Blood & Immune cells 2","Fibroblast & Stromal cells 2",14.5988017847191
+"Healthy 1","Healthy","Blood & Immune cells 2","Fibroblast & Stromal cells 3",17.0323757418639
+"Healthy 1","Healthy","Blood & Immune cells 2","Glial cells 1",5.91269094652205
+"Healthy 1","Healthy","Blood & Immune cells 2","Glial cells 2",10.4639167453734
+"Healthy 1","Healthy","Blood & Immune cells 2","Mural cells",5.71912720244268
+"Healthy 1","Healthy","Endothelial cells 1","Blood & Immune cells 1",38.8185326166491
+"Healthy 1","Healthy","Endothelial cells 1","Blood & Immune cells 2",12.9998186504011
+"Healthy 1","Healthy","Endothelial cells 1","Endothelial cells 1",57.2744690215817
+"Healthy 1","Healthy","Endothelial cells 1","Endothelial cells 2",25.5955616532809
+"Healthy 1","Healthy","Endothelial cells 1","Endothelial cells 3",26.0156018285847
+"Healthy 1","Healthy","Endothelial cells 1","Endothelial cells 4",22.4819066373536
+"Healthy 1","Healthy","Endothelial cells 1","Fibroblast & Stromal cells 1",48.4420811418991
+"Healthy 1","Healthy","Endothelial cells 1","Fibroblast & Stromal cells 2",40.2826260837927
+"Healthy 1","Healthy","Endothelial cells 1","Fibroblast & Stromal cells 3",43.6688291771605
+"Healthy 1","Healthy","Endothelial cells 1","Glial cells 1",23.0484306057228
+"Healthy 1","Healthy","Endothelial cells 1","Glial cells 2",27.4125493695017
+"Healthy 1","Healthy","Endothelial cells 1","Mural cells",23.8776222564648
+"Healthy 1","Healthy","Endothelial cells 2","Blood & Immune cells 1",27.1798045771909
+"Healthy 1","Healthy","Endothelial cells 2","Blood & Immune cells 2",7.45605714917237
+"Healthy 1","Healthy","Endothelial cells 2","Endothelial cells 1",33.7916904959432
+"Healthy 1","Healthy","Endothelial cells 2","Endothelial cells 2",17.274460455639
+"Healthy 1","Healthy","Endothelial cells 2","Endothelial cells 3",16.4382063781838
+"Healthy 1","Healthy","Endothelial cells 2","Endothelial cells 4",12.9851012808815
+"Healthy 1","Healthy","Endothelial cells 2","Fibroblast & Stromal cells 1",25.6086933005335
+"Healthy 1","Healthy","Endothelial cells 2","Fibroblast & Stromal cells 2",20.0024225263611
+"Healthy 1","Healthy","Endothelial cells 2","Fibroblast & Stromal cells 3",23.4526392028189
+"Healthy 1","Healthy","Endothelial cells 2","Glial cells 1",10.8338264746327
+"Healthy 1","Healthy","Endothelial cells 2","Glial cells 2",13.8266110429907
+"Healthy 1","Healthy","Endothelial cells 2","Mural cells",16.3357999505734
+"Healthy 1","Healthy","Endothelial cells 3","Blood & Immune cells 1",33.8533972035539
+"Healthy 1","Healthy","Endothelial cells 3","Blood & Immune cells 2",10.5548750761959
+"Healthy 1","Healthy","Endothelial cells 3","Endothelial cells 1",39.1428138090623
+"Healthy 1","Healthy","Endothelial cells 3","Endothelial cells 2",17.8516274362329
+"Healthy 1","Healthy","Endothelial cells 3","Endothelial cells 3",19.8208989445046
+"Healthy 1","Healthy","Endothelial cells 3","Endothelial cells 4",16.5391721874678
+"Healthy 1","Healthy","Endothelial cells 3","Fibroblast & Stromal cells 1",31.212747133476
+"Healthy 1","Healthy","Endothelial cells 3","Fibroblast & Stromal cells 2",24.9768299260487
+"Healthy 1","Healthy","Endothelial cells 3","Fibroblast & Stromal cells 3",27.9979575043303
+"Healthy 1","Healthy","Endothelial cells 3","Glial cells 1",12.7381655385133
+"Healthy 1","Healthy","Endothelial cells 3","Glial cells 2",16.6897659499121
+"Healthy 1","Healthy","Endothelial cells 3","Mural cells",17.190890917049
+"Healthy 1","Healthy","Endothelial cells 4","Blood & Immune cells 1",25.0567747347812
+"Healthy 1","Healthy","Endothelial cells 4","Blood & Immune cells 2",7.86370554187558
+"Healthy 1","Healthy","Endothelial cells 4","Endothelial cells 1",29.8021246213529
+"Healthy 1","Healthy","Endothelial cells 4","Endothelial cells 2",13.6986427436013
+"Healthy 1","Healthy","Endothelial cells 4","Endothelial cells 3",14.2591534114735
+"Healthy 1","Healthy","Endothelial cells 4","Endothelial cells 4",12.0895418164163
+"Healthy 1","Healthy","Endothelial cells 4","Fibroblast & Stromal cells 1",24.0193450184366
+"Healthy 1","Healthy","Endothelial cells 4","Fibroblast & Stromal cells 2",19.2210946000886
+"Healthy 1","Healthy","Endothelial cells 4","Fibroblast & Stromal cells 3",21.67384924471
+"Healthy 1","Healthy","Endothelial cells 4","Glial cells 1",9.41519935480283
+"Healthy 1","Healthy","Endothelial cells 4","Glial cells 2",13.0992530577396
+"Healthy 1","Healthy","Endothelial cells 4","Mural cells",13.0607316045617
+"Healthy 1","Healthy","Fibroblast & Stromal cells 1","Blood & Immune cells 1",19.8904844359438
+"Healthy 1","Healthy","Fibroblast & Stromal cells 1","Blood & Immune cells 2",7.79815679539833
+"Healthy 1","Healthy","Fibroblast & Stromal cells 1","Endothelial cells 1",38.2456190760307
+"Healthy 1","Healthy","Fibroblast & Stromal cells 1","Endothelial cells 2",15.8377463360298
+"Healthy 1","Healthy","Fibroblast & Stromal cells 1","Endothelial cells 3",15.5188644933538
+"Healthy 1","Healthy","Fibroblast & Stromal cells 1","Endothelial cells 4",14.777566939197
+"Healthy 1","Healthy","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 1",34.9767703178235
+"Healthy 1","Healthy","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 2",29.6358398129839
+"Healthy 1","Healthy","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 3",31.3137699223439
+"Healthy 1","Healthy","Fibroblast & Stromal cells 1","Glial cells 1",17.7666070485531
+"Healthy 1","Healthy","Fibroblast & Stromal cells 1","Glial cells 2",19.8835648905541
+"Healthy 1","Healthy","Fibroblast & Stromal cells 1","Mural cells",14.1005900251965
+"Healthy 1","Healthy","Fibroblast & Stromal cells 2","Blood & Immune cells 1",20.2605298181334
+"Healthy 1","Healthy","Fibroblast & Stromal cells 2","Blood & Immune cells 2",8.16535724537014
+"Healthy 1","Healthy","Fibroblast & Stromal cells 2","Endothelial cells 1",36.5197862610189
+"Healthy 1","Healthy","Fibroblast & Stromal cells 2","Endothelial cells 2",16.3297318020384
+"Healthy 1","Healthy","Fibroblast & Stromal cells 2","Endothelial cells 3",15.4722742702887
+"Healthy 1","Healthy","Fibroblast & Stromal cells 2","Endothelial cells 4",13.8912826526014
+"Healthy 1","Healthy","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 1",32.8981465050428
+"Healthy 1","Healthy","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 2",28.107548210229
+"Healthy 1","Healthy","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 3",29.9460307624103
+"Healthy 1","Healthy","Fibroblast & Stromal cells 2","Glial cells 1",14.2277428149618
+"Healthy 1","Healthy","Fibroblast & Stromal cells 2","Glial cells 2",18.4223856838005
+"Healthy 1","Healthy","Fibroblast & Stromal cells 2","Mural cells",12.791853010781
+"Healthy 1","Healthy","Fibroblast & Stromal cells 3","Blood & Immune cells 1",22.8996975357206
+"Healthy 1","Healthy","Fibroblast & Stromal cells 3","Blood & Immune cells 2",8.51063333719667
+"Healthy 1","Healthy","Fibroblast & Stromal cells 3","Endothelial cells 1",40.6195685237804
+"Healthy 1","Healthy","Fibroblast & Stromal cells 3","Endothelial cells 2",16.0495630089829
+"Healthy 1","Healthy","Fibroblast & Stromal cells 3","Endothelial cells 3",16.9939272379173
+"Healthy 1","Healthy","Fibroblast & Stromal cells 3","Endothelial cells 4",15.6742494997628
+"Healthy 1","Healthy","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 1",36.1199853377408
+"Healthy 1","Healthy","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 2",30.2527391668062
+"Healthy 1","Healthy","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 3",32.0018803031202
+"Healthy 1","Healthy","Fibroblast & Stromal cells 3","Glial cells 1",19.5175326661164
+"Healthy 1","Healthy","Fibroblast & Stromal cells 3","Glial cells 2",20.5933357218355
+"Healthy 1","Healthy","Fibroblast & Stromal cells 3","Mural cells",15.5686425882256
+"Healthy 1","Healthy","Glial cells 1","Blood & Immune cells 1",12.0727893106247
+"Healthy 1","Healthy","Glial cells 1","Blood & Immune cells 2",6.7416271351807
+"Healthy 1","Healthy","Glial cells 1","Endothelial cells 1",29.5739554260499
+"Healthy 1","Healthy","Glial cells 1","Endothelial cells 2",9.33498578879032
+"Healthy 1","Healthy","Glial cells 1","Endothelial cells 3",9.63523729301681
+"Healthy 1","Healthy","Glial cells 1","Endothelial cells 4",11.2181616375269
+"Healthy 1","Healthy","Glial cells 1","Fibroblast & Stromal cells 1",29.9328228055503
+"Healthy 1","Healthy","Glial cells 1","Fibroblast & Stromal cells 2",23.8795461942168
+"Healthy 1","Healthy","Glial cells 1","Fibroblast & Stromal cells 3",25.7401069392827
+"Healthy 1","Healthy","Glial cells 1","Glial cells 1",9.56393770607891
+"Healthy 1","Healthy","Glial cells 1","Glial cells 2",14.7448996807172
+"Healthy 1","Healthy","Glial cells 1","Mural cells",9.30747779850122
+"Healthy 1","Healthy","Glial cells 2","Blood & Immune cells 1",17.5816173301206
+"Healthy 1","Healthy","Glial cells 2","Blood & Immune cells 2",10.3697223016191
+"Healthy 1","Healthy","Glial cells 2","Endothelial cells 1",45.986174137731
+"Healthy 1","Healthy","Glial cells 2","Endothelial cells 2",15.7857694379898
+"Healthy 1","Healthy","Glial cells 2","Endothelial cells 3",15.9318027049303
+"Healthy 1","Healthy","Glial cells 2","Endothelial cells 4",17.4972147162978
+"Healthy 1","Healthy","Glial cells 2","Fibroblast & Stromal cells 1",45.3199658759668
+"Healthy 1","Healthy","Glial cells 2","Fibroblast & Stromal cells 2",36.9915721125172
+"Healthy 1","Healthy","Glial cells 2","Fibroblast & Stromal cells 3",38.647717079168
+"Healthy 1","Healthy","Glial cells 2","Glial cells 1",15.0668721137457
+"Healthy 1","Healthy","Glial cells 2","Glial cells 2",21.8191834309525
+"Healthy 1","Healthy","Glial cells 2","Mural cells",14.4780737708941
+"Healthy 1","Healthy","Mural cells","Blood & Immune cells 1",15.8781258313416
+"Healthy 1","Healthy","Mural cells","Blood & Immune cells 2",9.15543419553592
+"Healthy 1","Healthy","Mural cells","Endothelial cells 1",39.1973466966191
+"Healthy 1","Healthy","Mural cells","Endothelial cells 2",18.5070322663261
+"Healthy 1","Healthy","Mural cells","Endothelial cells 3",14.3926475966042
+"Healthy 1","Healthy","Mural cells","Endothelial cells 4",14.8248774648029
+"Healthy 1","Healthy","Mural cells","Fibroblast & Stromal cells 1",37.4307400628544
+"Healthy 1","Healthy","Mural cells","Fibroblast & Stromal cells 2",30.1646084432077
+"Healthy 1","Healthy","Mural cells","Fibroblast & Stromal cells 3",32.5677875482165
+"Healthy 1","Healthy","Mural cells","Glial cells 1",12.2007195416505
+"Healthy 1","Healthy","Mural cells","Glial cells 2",17.9978556990376
+"Healthy 1","Healthy","Mural cells","Mural cells",10.6425393940389
+"Advanced stage 4","Advanced","Blood & Immune cells 1","Blood & Immune cells 1",19.9235114088617
+"Advanced stage 4","Advanced","Blood & Immune cells 1","Blood & Immune cells 2",9.82825304930096
+"Advanced stage 4","Advanced","Blood & Immune cells 1","Endothelial cells 1",31.0195915073479
+"Advanced stage 4","Advanced","Blood & Immune cells 1","Endothelial cells 2",14.0012434722402
+"Advanced stage 4","Advanced","Blood & Immune cells 1","Endothelial cells 3",19.1418714376029
+"Advanced stage 4","Advanced","Blood & Immune cells 1","Endothelial cells 4",17.1759727846041
+"Advanced stage 4","Advanced","Blood & Immune cells 1","Fibroblast & Stromal cells 1",32.0820883221938
+"Advanced stage 4","Advanced","Blood & Immune cells 1","Fibroblast & Stromal cells 2",26.9065886394828
+"Advanced stage 4","Advanced","Blood & Immune cells 1","Fibroblast & Stromal cells 3",32.0478624455743
+"Advanced stage 4","Advanced","Blood & Immune cells 1","Glial cells 1",14.926997074708
+"Advanced stage 4","Advanced","Blood & Immune cells 1","Glial cells 2",20.4559969929039
+"Advanced stage 4","Advanced","Blood & Immune cells 1","Mural cells",12.5518282937751
+"Advanced stage 4","Advanced","Blood & Immune cells 2","Blood & Immune cells 1",14.6184080085026
+"Advanced stage 4","Advanced","Blood & Immune cells 2","Blood & Immune cells 2",7.82531015305243
+"Advanced stage 4","Advanced","Blood & Immune cells 2","Endothelial cells 1",23.8045392864948
+"Advanced stage 4","Advanced","Blood & Immune cells 2","Endothelial cells 2",13.8670721046431
+"Advanced stage 4","Advanced","Blood & Immune cells 2","Endothelial cells 3",14.0947054402129
+"Advanced stage 4","Advanced","Blood & Immune cells 2","Endothelial cells 4",12.4651909676566
+"Advanced stage 4","Advanced","Blood & Immune cells 2","Fibroblast & Stromal cells 1",28.1677825332306
+"Advanced stage 4","Advanced","Blood & Immune cells 2","Fibroblast & Stromal cells 2",22.7782751021328
+"Advanced stage 4","Advanced","Blood & Immune cells 2","Fibroblast & Stromal cells 3",27.4728491693115
+"Advanced stage 4","Advanced","Blood & Immune cells 2","Glial cells 1",8.03406682845715
+"Advanced stage 4","Advanced","Blood & Immune cells 2","Glial cells 2",13.5496242869473
+"Advanced stage 4","Advanced","Blood & Immune cells 2","Mural cells",8.89716596916955
+"Advanced stage 4","Advanced","Endothelial cells 1","Blood & Immune cells 1",42.542138895364
+"Advanced stage 4","Advanced","Endothelial cells 1","Blood & Immune cells 2",18.4346529406169
+"Advanced stage 4","Advanced","Endothelial cells 1","Endothelial cells 1",64.0895702193585
+"Advanced stage 4","Advanced","Endothelial cells 1","Endothelial cells 2",30.5611659469483
+"Advanced stage 4","Advanced","Endothelial cells 1","Endothelial cells 3",37.0995751475337
+"Advanced stage 4","Advanced","Endothelial cells 1","Endothelial cells 4",28.8091699689988
+"Advanced stage 4","Advanced","Endothelial cells 1","Fibroblast & Stromal cells 1",63.3994751562612
+"Advanced stage 4","Advanced","Endothelial cells 1","Fibroblast & Stromal cells 2",53.5867352161374
+"Advanced stage 4","Advanced","Endothelial cells 1","Fibroblast & Stromal cells 3",65.565477085998
+"Advanced stage 4","Advanced","Endothelial cells 1","Glial cells 1",24.8527166077578
+"Advanced stage 4","Advanced","Endothelial cells 1","Glial cells 2",30.34715623805
+"Advanced stage 4","Advanced","Endothelial cells 1","Mural cells",34.0131003518644
+"Advanced stage 4","Advanced","Endothelial cells 2","Blood & Immune cells 1",37.9176606639807
+"Advanced stage 4","Advanced","Endothelial cells 2","Blood & Immune cells 2",12.6258694411633
+"Advanced stage 4","Advanced","Endothelial cells 2","Endothelial cells 1",44.1238663297763
+"Advanced stage 4","Advanced","Endothelial cells 2","Endothelial cells 2",21.2306709092808
+"Advanced stage 4","Advanced","Endothelial cells 2","Endothelial cells 3",29.3441939639074
+"Advanced stage 4","Advanced","Endothelial cells 2","Endothelial cells 4",18.6630276932545
+"Advanced stage 4","Advanced","Endothelial cells 2","Fibroblast & Stromal cells 1",37.0665125177422
+"Advanced stage 4","Advanced","Endothelial cells 2","Fibroblast & Stromal cells 2",31.655828848902
+"Advanced stage 4","Advanced","Endothelial cells 2","Fibroblast & Stromal cells 3",41.8414963914973
+"Advanced stage 4","Advanced","Endothelial cells 2","Glial cells 1",12.6013621824155
+"Advanced stage 4","Advanced","Endothelial cells 2","Glial cells 2",18.7387946397638
+"Advanced stage 4","Advanced","Endothelial cells 2","Mural cells",27.0620166472613
+"Advanced stage 4","Advanced","Endothelial cells 3","Blood & Immune cells 1",45.753040579778
+"Advanced stage 4","Advanced","Endothelial cells 3","Blood & Immune cells 2",16.3403185511608
+"Advanced stage 4","Advanced","Endothelial cells 3","Endothelial cells 1",52.9757066720772
+"Advanced stage 4","Advanced","Endothelial cells 3","Endothelial cells 2",25.018500029893
+"Advanced stage 4","Advanced","Endothelial cells 3","Endothelial cells 3",35.7449356537412
+"Advanced stage 4","Advanced","Endothelial cells 3","Endothelial cells 4",24.6209802519272
+"Advanced stage 4","Advanced","Endothelial cells 3","Fibroblast & Stromal cells 1",46.1173162546895
+"Advanced stage 4","Advanced","Endothelial cells 3","Fibroblast & Stromal cells 2",38.6308219844329
+"Advanced stage 4","Advanced","Endothelial cells 3","Fibroblast & Stromal cells 3",49.0408788124471
+"Advanced stage 4","Advanced","Endothelial cells 3","Glial cells 1",16.237479968323
+"Advanced stage 4","Advanced","Endothelial cells 3","Glial cells 2",22.838863012798
+"Advanced stage 4","Advanced","Endothelial cells 3","Mural cells",29.3038953036505
+"Advanced stage 4","Advanced","Endothelial cells 4","Blood & Immune cells 1",34.6988113574939
+"Advanced stage 4","Advanced","Endothelial cells 4","Blood & Immune cells 2",12.5592659896258
+"Advanced stage 4","Advanced","Endothelial cells 4","Endothelial cells 1",41.1428586490716
+"Advanced stage 4","Advanced","Endothelial cells 4","Endothelial cells 2",18.1716753911813
+"Advanced stage 4","Advanced","Endothelial cells 4","Endothelial cells 3",27.2062760774333
+"Advanced stage 4","Advanced","Endothelial cells 4","Endothelial cells 4",18.7694780786218
+"Advanced stage 4","Advanced","Endothelial cells 4","Fibroblast & Stromal cells 1",36.498732510578
+"Advanced stage 4","Advanced","Endothelial cells 4","Fibroblast & Stromal cells 2",30.4832876002597
+"Advanced stage 4","Advanced","Endothelial cells 4","Fibroblast & Stromal cells 3",38.9336090025492
+"Advanced stage 4","Advanced","Endothelial cells 4","Glial cells 1",12.5678028589437
+"Advanced stage 4","Advanced","Endothelial cells 4","Glial cells 2",17.9055389871594
+"Advanced stage 4","Advanced","Endothelial cells 4","Mural cells",23.3914208537369
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 1","Blood & Immune cells 1",24.9968601331972
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 1","Blood & Immune cells 2",12.6351881811377
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 1","Endothelial cells 1",45.1637729332298
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 1","Endothelial cells 2",21.665736190729
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 1","Endothelial cells 3",23.5446439277393
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 1","Endothelial cells 4",20.3182946692703
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 1",48.3202783088248
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 2",40.3681507354541
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 3",48.3983734305058
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 1","Glial cells 1",18.2557105630649
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 1","Glial cells 2",21.4985996462768
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 1","Mural cells",22.0699934749775
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 2","Blood & Immune cells 1",26.0627053959441
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 2","Blood & Immune cells 2",14.122709334292
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 2","Endothelial cells 1",49.3439143533996
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 2","Endothelial cells 2",23.1417375899973
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 2","Endothelial cells 3",24.6310730062451
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 2","Endothelial cells 4",21.593707487266
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 1",53.5800089363747
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 2",44.7725089548067
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 3",53.3395984428617
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 2","Glial cells 1",18.8726598743642
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 2","Glial cells 2",23.3509687921157
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 2","Mural cells",23.7977871150637
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 3","Blood & Immune cells 1",29.1006357480291
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 3","Blood & Immune cells 2",15.5999923379461
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 3","Endothelial cells 1",54.8667678951133
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 3","Endothelial cells 2",24.6702311002389
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 3","Endothelial cells 3",27.3095359123553
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 3","Endothelial cells 4",24.2858314670589
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 1",59.9497131334389
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 2",49.8480021060312
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 3",59.5224940483864
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 3","Glial cells 1",22.0454571708598
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 3","Glial cells 2",25.0576457704414
+"Advanced stage 4","Advanced","Fibroblast & Stromal cells 3","Mural cells",26.1639383412313
+"Advanced stage 4","Advanced","Glial cells 1","Blood & Immune cells 1",16.5604118011033
+"Advanced stage 4","Advanced","Glial cells 1","Blood & Immune cells 2",10.5199137560015
+"Advanced stage 4","Advanced","Glial cells 1","Endothelial cells 1",34.3203138385432
+"Advanced stage 4","Advanced","Glial cells 1","Endothelial cells 2",12.4184796774146
+"Advanced stage 4","Advanced","Glial cells 1","Endothelial cells 3",15.387930308677
+"Advanced stage 4","Advanced","Glial cells 1","Endothelial cells 4",15.6921316715974
+"Advanced stage 4","Advanced","Glial cells 1","Fibroblast & Stromal cells 1",38.8662687046403
+"Advanced stage 4","Advanced","Glial cells 1","Fibroblast & Stromal cells 2",32.296772337515
+"Advanced stage 4","Advanced","Glial cells 1","Fibroblast & Stromal cells 3",37.8273702076352
+"Advanced stage 4","Advanced","Glial cells 1","Glial cells 1",13.082286697585
+"Advanced stage 4","Advanced","Glial cells 1","Glial cells 2",18.6514516197857
+"Advanced stage 4","Advanced","Glial cells 1","Mural cells",14.8209873438521
+"Advanced stage 4","Advanced","Glial cells 2","Blood & Immune cells 1",18.6666582021408
+"Advanced stage 4","Advanced","Glial cells 2","Blood & Immune cells 2",17.4030230727437
+"Advanced stage 4","Advanced","Glial cells 2","Endothelial cells 1",62.1337939649553
+"Advanced stage 4","Advanced","Glial cells 2","Endothelial cells 2",18.1495956802949
+"Advanced stage 4","Advanced","Glial cells 2","Endothelial cells 3",21.5350558315672
+"Advanced stage 4","Advanced","Glial cells 2","Endothelial cells 4",26.701165271006
+"Advanced stage 4","Advanced","Glial cells 2","Fibroblast & Stromal cells 1",75.9635763556786
+"Advanced stage 4","Advanced","Glial cells 2","Fibroblast & Stromal cells 2",64.6003929019197
+"Advanced stage 4","Advanced","Glial cells 2","Fibroblast & Stromal cells 3",71.5521064747253
+"Advanced stage 4","Advanced","Glial cells 2","Glial cells 1",22.334141521472
+"Advanced stage 4","Advanced","Glial cells 2","Glial cells 2",26.2241783545114
+"Advanced stage 4","Advanced","Glial cells 2","Mural cells",23.3276789178162
+"Advanced stage 4","Advanced","Mural cells","Blood & Immune cells 1",21.1076101647815
+"Advanced stage 4","Advanced","Mural cells","Blood & Immune cells 2",14.3644509224597
+"Advanced stage 4","Advanced","Mural cells","Endothelial cells 1",48.4165357850068
+"Advanced stage 4","Advanced","Mural cells","Endothelial cells 2",24.5396855565783
+"Advanced stage 4","Advanced","Mural cells","Endothelial cells 3",22.5211906916658
+"Advanced stage 4","Advanced","Mural cells","Endothelial cells 4",21.6307216120706
+"Advanced stage 4","Advanced","Mural cells","Fibroblast & Stromal cells 1",53.1424954267526
+"Advanced stage 4","Advanced","Mural cells","Fibroblast & Stromal cells 2",45.0087708988379
+"Advanced stage 4","Advanced","Mural cells","Fibroblast & Stromal cells 3",50.8089165272196
+"Advanced stage 4","Advanced","Mural cells","Glial cells 1",17.7837290895638
+"Advanced stage 4","Advanced","Mural cells","Glial cells 2",22.3517969028579
+"Advanced stage 4","Advanced","Mural cells","Mural cells",19.7191582677088
+"Early stage 4","Early","Blood & Immune cells 1","Blood & Immune cells 1",20.7223682904459
+"Early stage 4","Early","Blood & Immune cells 1","Blood & Immune cells 2",9.84627148517857
+"Early stage 4","Early","Blood & Immune cells 1","Endothelial cells 1",33.1312807296303
+"Early stage 4","Early","Blood & Immune cells 1","Endothelial cells 2",14.2502312176239
+"Early stage 4","Early","Blood & Immune cells 1","Endothelial cells 3",21.7672971563382
+"Early stage 4","Early","Blood & Immune cells 1","Endothelial cells 4",18.8906856154316
+"Early stage 4","Early","Blood & Immune cells 1","Fibroblast & Stromal cells 1",36.084456228968
+"Early stage 4","Early","Blood & Immune cells 1","Fibroblast & Stromal cells 2",24.3046474118114
+"Early stage 4","Early","Blood & Immune cells 1","Fibroblast & Stromal cells 3",29.4504592653672
+"Early stage 4","Early","Blood & Immune cells 1","Glial cells 1",14.3809264409097
+"Early stage 4","Early","Blood & Immune cells 1","Glial cells 2",22.3376577697755
+"Early stage 4","Early","Blood & Immune cells 1","Mural cells",11.1106283413718
+"Early stage 4","Early","Blood & Immune cells 2","Blood & Immune cells 1",15.4775893164589
+"Early stage 4","Early","Blood & Immune cells 2","Blood & Immune cells 2",8.08767846258412
+"Early stage 4","Early","Blood & Immune cells 2","Endothelial cells 1",25.7386880779713
+"Early stage 4","Early","Blood & Immune cells 2","Endothelial cells 2",13.3749813009625
+"Early stage 4","Early","Blood & Immune cells 2","Endothelial cells 3",15.2226613544087
+"Early stage 4","Early","Blood & Immune cells 2","Endothelial cells 4",14.2379412928311
+"Early stage 4","Early","Blood & Immune cells 2","Fibroblast & Stromal cells 1",30.8953476410381
+"Early stage 4","Early","Blood & Immune cells 2","Fibroblast & Stromal cells 2",20.7474220323219
+"Early stage 4","Early","Blood & Immune cells 2","Fibroblast & Stromal cells 3",25.0748035671658
+"Early stage 4","Early","Blood & Immune cells 2","Glial cells 1",8.23081599670511
+"Early stage 4","Early","Blood & Immune cells 2","Glial cells 2",15.1365414898234
+"Early stage 4","Early","Blood & Immune cells 2","Mural cells",7.87846636718506
+"Early stage 4","Early","Endothelial cells 1","Blood & Immune cells 1",39.8513977670478
+"Early stage 4","Early","Endothelial cells 1","Blood & Immune cells 2",17.2447247570416
+"Early stage 4","Early","Endothelial cells 1","Endothelial cells 1",61.4171085408835
+"Early stage 4","Early","Endothelial cells 1","Endothelial cells 2",28.2674575860806
+"Early stage 4","Early","Endothelial cells 1","Endothelial cells 3",37.4010348855917
+"Early stage 4","Early","Endothelial cells 1","Endothelial cells 4",30.1213890548421
+"Early stage 4","Early","Endothelial cells 1","Fibroblast & Stromal cells 1",64.4499204003163
+"Early stage 4","Early","Endothelial cells 1","Fibroblast & Stromal cells 2",46.1547149868031
+"Early stage 4","Early","Endothelial cells 1","Fibroblast & Stromal cells 3",54.8145188097941
+"Early stage 4","Early","Endothelial cells 1","Glial cells 1",23.7680006708767
+"Early stage 4","Early","Endothelial cells 1","Glial cells 2",34.0645524036848
+"Early stage 4","Early","Endothelial cells 1","Mural cells",28.5885677089063
+"Early stage 4","Early","Endothelial cells 2","Blood & Immune cells 1",38.8731787524841
+"Early stage 4","Early","Endothelial cells 2","Blood & Immune cells 2",12.1890837161706
+"Early stage 4","Early","Endothelial cells 2","Endothelial cells 1",43.4529350669629
+"Early stage 4","Early","Endothelial cells 2","Endothelial cells 2",20.2515990377651
+"Early stage 4","Early","Endothelial cells 2","Endothelial cells 3",30.2995488513862
+"Early stage 4","Early","Endothelial cells 2","Endothelial cells 4",19.9447526923521
+"Early stage 4","Early","Endothelial cells 2","Fibroblast & Stromal cells 1",38.9691065924286
+"Early stage 4","Early","Endothelial cells 2","Fibroblast & Stromal cells 2",26.269384804511
+"Early stage 4","Early","Endothelial cells 2","Fibroblast & Stromal cells 3",34.9075942191048
+"Early stage 4","Early","Endothelial cells 2","Glial cells 1",12.8833123516799
+"Early stage 4","Early","Endothelial cells 2","Glial cells 2",20.0317853597544
+"Early stage 4","Early","Endothelial cells 2","Mural cells",23.9793323067199
+"Early stage 4","Early","Endothelial cells 3","Blood & Immune cells 1",44.6282978212121
+"Early stage 4","Early","Endothelial cells 3","Blood & Immune cells 2",15.4546746047809
+"Early stage 4","Early","Endothelial cells 3","Endothelial cells 1",49.3251218955604
+"Early stage 4","Early","Endothelial cells 3","Endothelial cells 2",22.0554672288549
+"Early stage 4","Early","Endothelial cells 3","Endothelial cells 3",34.5384132693802
+"Early stage 4","Early","Endothelial cells 3","Endothelial cells 4",24.4281346101762
+"Early stage 4","Early","Endothelial cells 3","Fibroblast & Stromal cells 1",46.821015841918
+"Early stage 4","Early","Endothelial cells 3","Fibroblast & Stromal cells 2",32.1270820075818
+"Early stage 4","Early","Endothelial cells 3","Fibroblast & Stromal cells 3",40.867020778514
+"Early stage 4","Early","Endothelial cells 3","Glial cells 1",15.2096575852173
+"Early stage 4","Early","Endothelial cells 3","Glial cells 2",24.7851688026411
+"Early stage 4","Early","Endothelial cells 3","Mural cells",25.3022731328441
+"Early stage 4","Early","Endothelial cells 4","Blood & Immune cells 1",34.987101853133
+"Early stage 4","Early","Endothelial cells 4","Blood & Immune cells 2",12.3169508419416
+"Early stage 4","Early","Endothelial cells 4","Endothelial cells 1",40.9843771152685
+"Early stage 4","Early","Endothelial cells 4","Endothelial cells 2",17.3392618844948
+"Early stage 4","Early","Endothelial cells 4","Endothelial cells 3",27.7091629104477
+"Early stage 4","Early","Endothelial cells 4","Endothelial cells 4",19.9588730971958
+"Early stage 4","Early","Endothelial cells 4","Fibroblast & Stromal cells 1",40.117323522598
+"Early stage 4","Early","Endothelial cells 4","Fibroblast & Stromal cells 2",27.3008940674749
+"Early stage 4","Early","Endothelial cells 4","Fibroblast & Stromal cells 3",34.8449273498703
+"Early stage 4","Early","Endothelial cells 4","Glial cells 1",12.9291119272914
+"Early stage 4","Early","Endothelial cells 4","Glial cells 2",20.9298636968371
+"Early stage 4","Early","Endothelial cells 4","Mural cells",21.2032621160319
+"Early stage 4","Early","Fibroblast & Stromal cells 1","Blood & Immune cells 1",25.8850853435843
+"Early stage 4","Early","Fibroblast & Stromal cells 1","Blood & Immune cells 2",13.3467192103005
+"Early stage 4","Early","Fibroblast & Stromal cells 1","Endothelial cells 1",48.2098109996248
+"Early stage 4","Early","Fibroblast & Stromal cells 1","Endothelial cells 2",22.5648359317019
+"Early stage 4","Early","Fibroblast & Stromal cells 1","Endothelial cells 3",27.610966708597
+"Early stage 4","Early","Fibroblast & Stromal cells 1","Endothelial cells 4",24.2328942509324
+"Early stage 4","Early","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 1",54.2395017592323
+"Early stage 4","Early","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 2",39.3080021553004
+"Early stage 4","Early","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 3",45.26847359254
+"Early stage 4","Early","Fibroblast & Stromal cells 1","Glial cells 1",19.1736932450671
+"Early stage 4","Early","Fibroblast & Stromal cells 1","Glial cells 2",27.5015147251493
+"Early stage 4","Early","Fibroblast & Stromal cells 1","Mural cells",19.6689514326925
+"Early stage 4","Early","Fibroblast & Stromal cells 2","Blood & Immune cells 1",26.9481901548677
+"Early stage 4","Early","Fibroblast & Stromal cells 2","Blood & Immune cells 2",14.1721493354353
+"Early stage 4","Early","Fibroblast & Stromal cells 2","Endothelial cells 1",47.1946265190013
+"Early stage 4","Early","Fibroblast & Stromal cells 2","Endothelial cells 2",24.4226356472917
+"Early stage 4","Early","Fibroblast & Stromal cells 2","Endothelial cells 3",26.9881098564352
+"Early stage 4","Early","Fibroblast & Stromal cells 2","Endothelial cells 4",23.3926370392188
+"Early stage 4","Early","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 1",51.7299542409822
+"Early stage 4","Early","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 2",38.92201670163
+"Early stage 4","Early","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 3",43.593544998082
+"Early stage 4","Early","Fibroblast & Stromal cells 2","Glial cells 1",17.4581551156838
+"Early stage 4","Early","Fibroblast & Stromal cells 2","Glial cells 2",27.4746590952758
+"Early stage 4","Early","Fibroblast & Stromal cells 2","Mural cells",19.0828663471312
+"Early stage 4","Early","Fibroblast & Stromal cells 3","Blood & Immune cells 1",29.0759368029562
+"Early stage 4","Early","Fibroblast & Stromal cells 3","Blood & Immune cells 2",14.8581512577023
+"Early stage 4","Early","Fibroblast & Stromal cells 3","Endothelial cells 1",52.6911646337462
+"Early stage 4","Early","Fibroblast & Stromal cells 3","Endothelial cells 2",24.9987455161174
+"Early stage 4","Early","Fibroblast & Stromal cells 3","Endothelial cells 3",30.2754598722784
+"Early stage 4","Early","Fibroblast & Stromal cells 3","Endothelial cells 4",25.9686470959526
+"Early stage 4","Early","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 1",57.9364441944325
+"Early stage 4","Early","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 2",42.1952798271667
+"Early stage 4","Early","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 3",49.119402266913
+"Early stage 4","Early","Fibroblast & Stromal cells 3","Glial cells 1",21.413005447022
+"Early stage 4","Early","Fibroblast & Stromal cells 3","Glial cells 2",29.9163388592776
+"Early stage 4","Early","Fibroblast & Stromal cells 3","Mural cells",22.7448311913347
+"Early stage 4","Early","Glial cells 1","Blood & Immune cells 1",16.2513604247189
+"Early stage 4","Early","Glial cells 1","Blood & Immune cells 2",9.92965672633355
+"Early stage 4","Early","Glial cells 1","Endothelial cells 1",34.5516528663016
+"Early stage 4","Early","Glial cells 1","Endothelial cells 2",11.6013619336919
+"Early stage 4","Early","Glial cells 1","Endothelial cells 3",17.2142687085354
+"Early stage 4","Early","Glial cells 1","Endothelial cells 4",16.6420398482663
+"Early stage 4","Early","Glial cells 1","Fibroblast & Stromal cells 1",41.5726238049572
+"Early stage 4","Early","Glial cells 1","Fibroblast & Stromal cells 2",28.1787815636785
+"Early stage 4","Early","Glial cells 1","Fibroblast & Stromal cells 3",34.8546943389699
+"Early stage 4","Early","Glial cells 1","Glial cells 1",12.2913307206803
+"Early stage 4","Early","Glial cells 1","Glial cells 2",21.9320166879984
+"Early stage 4","Early","Glial cells 1","Mural cells",12.0010980346286
+"Early stage 4","Early","Glial cells 2","Blood & Immune cells 1",19.9998746806916
+"Early stage 4","Early","Glial cells 2","Blood & Immune cells 2",14.4596560030731
+"Early stage 4","Early","Glial cells 2","Endothelial cells 1",56.3930661490751
+"Early stage 4","Early","Glial cells 2","Endothelial cells 2",18.1415910093651
+"Early stage 4","Early","Glial cells 2","Endothelial cells 3",25.461618798052
+"Early stage 4","Early","Glial cells 2","Endothelial cells 4",26.4513273948713
+"Early stage 4","Early","Glial cells 2","Fibroblast & Stromal cells 1",69.4700422139016
+"Early stage 4","Early","Glial cells 2","Fibroblast & Stromal cells 2",48.1216291085542
+"Early stage 4","Early","Glial cells 2","Fibroblast & Stromal cells 3",57.7163623888839
+"Early stage 4","Early","Glial cells 2","Glial cells 1",18.5857021890191
+"Early stage 4","Early","Glial cells 2","Glial cells 2",32.3469444607304
+"Early stage 4","Early","Glial cells 2","Mural cells",17.4104347668253
+"Early stage 4","Early","Mural cells","Blood & Immune cells 1",18.6143105438491
+"Early stage 4","Early","Mural cells","Blood & Immune cells 2",12.9029144059626
+"Early stage 4","Early","Mural cells","Endothelial cells 1",41.6968868953677
+"Early stage 4","Early","Mural cells","Endothelial cells 2",21.3747927445906
+"Early stage 4","Early","Mural cells","Endothelial cells 3",21.5474997156604
+"Early stage 4","Early","Mural cells","Endothelial cells 4",19.8919103609289
+"Early stage 4","Early","Mural cells","Fibroblast & Stromal cells 1",47.7414467280742
+"Early stage 4","Early","Mural cells","Fibroblast & Stromal cells 2",35.1080272756257
+"Early stage 4","Early","Mural cells","Fibroblast & Stromal cells 3",39.719047637811
+"Early stage 4","Early","Mural cells","Glial cells 1",13.5234229599701
+"Early stage 4","Early","Mural cells","Glial cells 2",23.6290530153362
+"Early stage 4","Early","Mural cells","Mural cells",13.3972373138259
+"Advanced stage 2","Advanced","Blood & Immune cells 1","Blood & Immune cells 1",13.1018355763317
+"Advanced stage 2","Advanced","Blood & Immune cells 1","Blood & Immune cells 2",5.93961061839726
+"Advanced stage 2","Advanced","Blood & Immune cells 1","Endothelial cells 1",23.0518939186737
+"Advanced stage 2","Advanced","Blood & Immune cells 1","Endothelial cells 2",10.2529239440015
+"Advanced stage 2","Advanced","Blood & Immune cells 1","Endothelial cells 3",13.8363494782204
+"Advanced stage 2","Advanced","Blood & Immune cells 1","Endothelial cells 4",11.5276084808894
+"Advanced stage 2","Advanced","Blood & Immune cells 1","Fibroblast & Stromal cells 1",18.3441094364176
+"Advanced stage 2","Advanced","Blood & Immune cells 1","Fibroblast & Stromal cells 2",17.1363465705849
+"Advanced stage 2","Advanced","Blood & Immune cells 1","Fibroblast & Stromal cells 3",18.1529498755684
+"Advanced stage 2","Advanced","Blood & Immune cells 1","Glial cells 1",8.7561470786745
+"Advanced stage 2","Advanced","Blood & Immune cells 1","Glial cells 2",10.4973807747345
+"Advanced stage 2","Advanced","Blood & Immune cells 1","Mural cells",9.81956641442597
+"Advanced stage 2","Advanced","Blood & Immune cells 2","Blood & Immune cells 1",8.4886793778933
+"Advanced stage 2","Advanced","Blood & Immune cells 2","Blood & Immune cells 2",4.37042519945107
+"Advanced stage 2","Advanced","Blood & Immune cells 2","Endothelial cells 1",18.0331425612563
+"Advanced stage 2","Advanced","Blood & Immune cells 2","Endothelial cells 2",10.2508008783703
+"Advanced stage 2","Advanced","Blood & Immune cells 2","Endothelial cells 3",10.64471958938
+"Advanced stage 2","Advanced","Blood & Immune cells 2","Endothelial cells 4",9.10689355285009
+"Advanced stage 2","Advanced","Blood & Immune cells 2","Fibroblast & Stromal cells 1",16.1076066959074
+"Advanced stage 2","Advanced","Blood & Immune cells 2","Fibroblast & Stromal cells 2",14.1851433563101
+"Advanced stage 2","Advanced","Blood & Immune cells 2","Fibroblast & Stromal cells 3",15.4087495179775
+"Advanced stage 2","Advanced","Blood & Immune cells 2","Glial cells 1",5.41803099148374
+"Advanced stage 2","Advanced","Blood & Immune cells 2","Glial cells 2",7.442604540603
+"Advanced stage 2","Advanced","Blood & Immune cells 2","Mural cells",7.01792311465423
+"Advanced stage 2","Advanced","Endothelial cells 1","Blood & Immune cells 1",30.8485996791294
+"Advanced stage 2","Advanced","Endothelial cells 1","Blood & Immune cells 2",12.3289607189511
+"Advanced stage 2","Advanced","Endothelial cells 1","Endothelial cells 1",58.9925381973365
+"Advanced stage 2","Advanced","Endothelial cells 1","Endothelial cells 2",28.6925591490966
+"Advanced stage 2","Advanced","Endothelial cells 1","Endothelial cells 3",35.064234996618
+"Advanced stage 2","Advanced","Endothelial cells 1","Endothelial cells 4",25.6784317061094
+"Advanced stage 2","Advanced","Endothelial cells 1","Fibroblast & Stromal cells 1",46.6707147082618
+"Advanced stage 2","Advanced","Endothelial cells 1","Fibroblast & Stromal cells 2",44.5545089023945
+"Advanced stage 2","Advanced","Endothelial cells 1","Fibroblast & Stromal cells 3",45.9924844383823
+"Advanced stage 2","Advanced","Endothelial cells 1","Glial cells 1",19.6364248846472
+"Advanced stage 2","Advanced","Endothelial cells 1","Glial cells 2",23.4912495728364
+"Advanced stage 2","Advanced","Endothelial cells 1","Mural cells",30.7682374737503
+"Advanced stage 2","Advanced","Endothelial cells 2","Blood & Immune cells 1",25.6574493199268
+"Advanced stage 2","Advanced","Endothelial cells 2","Blood & Immune cells 2",8.61530447811673
+"Advanced stage 2","Advanced","Endothelial cells 2","Endothelial cells 1",38.578865094287
+"Advanced stage 2","Advanced","Endothelial cells 2","Endothelial cells 2",18.5824920933129
+"Advanced stage 2","Advanced","Endothelial cells 2","Endothelial cells 3",25.648268693593
+"Advanced stage 2","Advanced","Endothelial cells 2","Endothelial cells 4",16.2219290065082
+"Advanced stage 2","Advanced","Endothelial cells 2","Fibroblast & Stromal cells 1",27.1629371204933
+"Advanced stage 2","Advanced","Endothelial cells 2","Fibroblast & Stromal cells 2",24.8351136871855
+"Advanced stage 2","Advanced","Endothelial cells 2","Fibroblast & Stromal cells 3",27.9353591614514
+"Advanced stage 2","Advanced","Endothelial cells 2","Glial cells 1",10.4251786649869
+"Advanced stage 2","Advanced","Endothelial cells 2","Glial cells 2",14.757817367796
+"Advanced stage 2","Advanced","Endothelial cells 2","Mural cells",21.9563109067428
+"Advanced stage 2","Advanced","Endothelial cells 3","Blood & Immune cells 1",28.3949780628229
+"Advanced stage 2","Advanced","Endothelial cells 3","Blood & Immune cells 2",10.0279544002535
+"Advanced stage 2","Advanced","Endothelial cells 3","Endothelial cells 1",46.4215657930757
+"Advanced stage 2","Advanced","Endothelial cells 3","Endothelial cells 2",22.0505025512023
+"Advanced stage 2","Advanced","Endothelial cells 3","Endothelial cells 3",29.6023857950506
+"Advanced stage 2","Advanced","Endothelial cells 3","Endothelial cells 4",20.7708945484243
+"Advanced stage 2","Advanced","Endothelial cells 3","Fibroblast & Stromal cells 1",35.1867860347806
+"Advanced stage 2","Advanced","Endothelial cells 3","Fibroblast & Stromal cells 2",32.3523167486717
+"Advanced stage 2","Advanced","Endothelial cells 3","Fibroblast & Stromal cells 3",34.9818535535202
+"Advanced stage 2","Advanced","Endothelial cells 3","Glial cells 1",13.0101092304338
+"Advanced stage 2","Advanced","Endothelial cells 3","Glial cells 2",17.8212277789706
+"Advanced stage 2","Advanced","Endothelial cells 3","Mural cells",25.2093383320144
+"Advanced stage 2","Advanced","Endothelial cells 4","Blood & Immune cells 1",19.7593887310067
+"Advanced stage 2","Advanced","Endothelial cells 4","Blood & Immune cells 2",6.91821318502913
+"Advanced stage 2","Advanced","Endothelial cells 4","Endothelial cells 1",31.620847776167
+"Advanced stage 2","Advanced","Endothelial cells 4","Endothelial cells 2",14.3496429307114
+"Advanced stage 2","Advanced","Endothelial cells 4","Endothelial cells 3",20.2166262082823
+"Advanced stage 2","Advanced","Endothelial cells 4","Endothelial cells 4",13.9114569283577
+"Advanced stage 2","Advanced","Endothelial cells 4","Fibroblast & Stromal cells 1",23.6418754286491
+"Advanced stage 2","Advanced","Endothelial cells 4","Fibroblast & Stromal cells 2",21.8212918097913
+"Advanced stage 2","Advanced","Endothelial cells 4","Fibroblast & Stromal cells 3",23.6345926595806
+"Advanced stage 2","Advanced","Endothelial cells 4","Glial cells 1",9.21253220358667
+"Advanced stage 2","Advanced","Endothelial cells 4","Glial cells 2",12.3529062047516
+"Advanced stage 2","Advanced","Endothelial cells 4","Mural cells",17.8473342457068
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 1","Blood & Immune cells 1",14.5463867815128
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 1","Blood & Immune cells 2",6.53569760743482
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 1","Endothelial cells 1",31.821447643685
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 1","Endothelial cells 2",15.8291311150109
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 1","Endothelial cells 3",18.0111164205209
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 1","Endothelial cells 4",13.8742043259702
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 1",27.1023599403091
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 2",25.7271463001614
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 3",25.8986813493564
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 1","Glial cells 1",11.6902056973529
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 1","Glial cells 2",13.022262600801
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 1","Mural cells",15.6800402666238
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 2","Blood & Immune cells 1",17.5937868052352
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 2","Blood & Immune cells 2",7.97750683794079
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 2","Endothelial cells 1",39.4615209231622
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 2","Endothelial cells 2",20.1050525227121
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 2","Endothelial cells 3",21.6050117640017
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 2","Endothelial cells 4",16.8862669954455
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 1",34.0593808569372
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 2",32.1911061629919
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 3",32.3530121647998
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 2","Glial cells 1",13.6113553217892
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 2","Glial cells 2",16.4385206377576
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 2","Mural cells",19.1797119130992
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 3","Blood & Immune cells 1",17.6740717986218
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 3","Blood & Immune cells 2",8.15159788707562
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 3","Endothelial cells 1",39.2941698832127
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 3","Endothelial cells 2",18.6135056833509
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 3","Endothelial cells 3",21.4760887662052
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 3","Endothelial cells 4",17.041566353197
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 1",33.5184799136707
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 2",31.3975284696562
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 3",32.0365605852874
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 3","Glial cells 1",13.9123110957816
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 3","Glial cells 2",15.8562709915668
+"Advanced stage 2","Advanced","Fibroblast & Stromal cells 3","Mural cells",19.8382954978683
+"Advanced stage 2","Advanced","Glial cells 1","Blood & Immune cells 1",10.5914563917172
+"Advanced stage 2","Advanced","Glial cells 1","Blood & Immune cells 2",5.36525882492091
+"Advanced stage 2","Advanced","Glial cells 1","Endothelial cells 1",25.590559420911
+"Advanced stage 2","Advanced","Glial cells 1","Endothelial cells 2",10.0358930839255
+"Advanced stage 2","Advanced","Glial cells 1","Endothelial cells 3",12.5936600267076
+"Advanced stage 2","Advanced","Glial cells 1","Endothelial cells 4",11.5842143914963
+"Advanced stage 2","Advanced","Glial cells 1","Fibroblast & Stromal cells 1",22.299432736336
+"Advanced stage 2","Advanced","Glial cells 1","Fibroblast & Stromal cells 2",20.2756319384825
+"Advanced stage 2","Advanced","Glial cells 1","Fibroblast & Stromal cells 3",21.3451881468968
+"Advanced stage 2","Advanced","Glial cells 1","Glial cells 1",8.67282125137598
+"Advanced stage 2","Advanced","Glial cells 1","Glial cells 2",11.9336685742783
+"Advanced stage 2","Advanced","Glial cells 1","Mural cells",11.2358370713884
+"Advanced stage 2","Advanced","Glial cells 2","Blood & Immune cells 1",13.2499858299648
+"Advanced stage 2","Advanced","Glial cells 2","Blood & Immune cells 2",8.39329146973146
+"Advanced stage 2","Advanced","Glial cells 2","Endothelial cells 1",41.7188098105229
+"Advanced stage 2","Advanced","Glial cells 2","Endothelial cells 2",15.6652408618358
+"Advanced stage 2","Advanced","Glial cells 2","Endothelial cells 3",18.6226348502374
+"Advanced stage 2","Advanced","Glial cells 2","Endothelial cells 4",18.822669572084
+"Advanced stage 2","Advanced","Glial cells 2","Fibroblast & Stromal cells 1",37.2559519162577
+"Advanced stage 2","Advanced","Glial cells 2","Fibroblast & Stromal cells 2",34.9048963941742
+"Advanced stage 2","Advanced","Glial cells 2","Fibroblast & Stromal cells 3",34.8979636041502
+"Advanced stage 2","Advanced","Glial cells 2","Glial cells 1",13.4933799743284
+"Advanced stage 2","Advanced","Glial cells 2","Glial cells 2",17.4105609610574
+"Advanced stage 2","Advanced","Glial cells 2","Mural cells",17.1627261387085
+"Advanced stage 2","Advanced","Mural cells","Blood & Immune cells 1",13.8698585397933
+"Advanced stage 2","Advanced","Mural cells","Blood & Immune cells 2",8.15144983944288
+"Advanced stage 2","Advanced","Mural cells","Endothelial cells 1",41.4350785097953
+"Advanced stage 2","Advanced","Mural cells","Endothelial cells 2",22.2429853083292
+"Advanced stage 2","Advanced","Mural cells","Endothelial cells 3",21.1284297519334
+"Advanced stage 2","Advanced","Mural cells","Endothelial cells 4",18.2782839430895
+"Advanced stage 2","Advanced","Mural cells","Fibroblast & Stromal cells 1",36.9835227118468
+"Advanced stage 2","Advanced","Mural cells","Fibroblast & Stromal cells 2",34.6058805002552
+"Advanced stage 2","Advanced","Mural cells","Fibroblast & Stromal cells 3",34.2921535525582
+"Advanced stage 2","Advanced","Mural cells","Glial cells 1",13.0640436564773
+"Advanced stage 2","Advanced","Mural cells","Glial cells 2",16.8995950985619
+"Advanced stage 2","Advanced","Mural cells","Mural cells",17.315787251231
+"Early stage 2","Early","Blood & Immune cells 1","Blood & Immune cells 1",15.7636077167166
+"Early stage 2","Early","Blood & Immune cells 1","Blood & Immune cells 2",11.0336047973359
+"Early stage 2","Early","Blood & Immune cells 1","Endothelial cells 1",25.996866216097
+"Early stage 2","Early","Blood & Immune cells 1","Endothelial cells 2",15.0886316586738
+"Early stage 2","Early","Blood & Immune cells 1","Endothelial cells 3",19.4274516573735
+"Early stage 2","Early","Blood & Immune cells 1","Endothelial cells 4",16.0686005469677
+"Early stage 2","Early","Blood & Immune cells 1","Fibroblast & Stromal cells 1",23.6164199293759
+"Early stage 2","Early","Blood & Immune cells 1","Fibroblast & Stromal cells 2",20.2459895503613
+"Early stage 2","Early","Blood & Immune cells 1","Fibroblast & Stromal cells 3",21.5128079327453
+"Early stage 2","Early","Blood & Immune cells 1","Glial cells 1",11.3655180950501
+"Early stage 2","Early","Blood & Immune cells 1","Glial cells 2",17.0376416809592
+"Early stage 2","Early","Blood & Immune cells 1","Mural cells",14.735714019172
+"Early stage 2","Early","Blood & Immune cells 2","Blood & Immune cells 1",14.6986910971322
+"Early stage 2","Early","Blood & Immune cells 2","Blood & Immune cells 2",10.600518219778
+"Early stage 2","Early","Blood & Immune cells 2","Endothelial cells 1",25.8756634502933
+"Early stage 2","Early","Blood & Immune cells 2","Endothelial cells 2",16.7920565103484
+"Early stage 2","Early","Blood & Immune cells 2","Endothelial cells 3",19.1645316747805
+"Early stage 2","Early","Blood & Immune cells 2","Endothelial cells 4",15.6097641218871
+"Early stage 2","Early","Blood & Immune cells 2","Fibroblast & Stromal cells 1",25.2570682325705
+"Early stage 2","Early","Blood & Immune cells 2","Fibroblast & Stromal cells 2",21.2000026216197
+"Early stage 2","Early","Blood & Immune cells 2","Fibroblast & Stromal cells 3",21.9427007546046
+"Early stage 2","Early","Blood & Immune cells 2","Glial cells 1",9.95479074559563
+"Early stage 2","Early","Blood & Immune cells 2","Glial cells 2",16.5352011526226
+"Early stage 2","Early","Blood & Immune cells 2","Mural cells",14.8600811249021
+"Early stage 2","Early","Endothelial cells 1","Blood & Immune cells 1",37.5823014918024
+"Early stage 2","Early","Endothelial cells 1","Blood & Immune cells 2",23.8353426106406
+"Early stage 2","Early","Endothelial cells 1","Endothelial cells 1",60.993728989431
+"Early stage 2","Early","Endothelial cells 1","Endothelial cells 2",38.0459667030666
+"Early stage 2","Early","Endothelial cells 1","Endothelial cells 3",45.0752133458728
+"Early stage 2","Early","Endothelial cells 1","Endothelial cells 4",33.9497589496193
+"Early stage 2","Early","Endothelial cells 1","Fibroblast & Stromal cells 1",53.9828659208191
+"Early stage 2","Early","Endothelial cells 1","Fibroblast & Stromal cells 2",47.0687828061721
+"Early stage 2","Early","Endothelial cells 1","Fibroblast & Stromal cells 3",49.876042955914
+"Early stage 2","Early","Endothelial cells 1","Glial cells 1",24.0588460313127
+"Early stage 2","Early","Endothelial cells 1","Glial cells 2",37.5396748058391
+"Early stage 2","Early","Endothelial cells 1","Mural cells",39.1937101941973
+"Early stage 2","Early","Endothelial cells 2","Blood & Immune cells 1",31.2961939600608
+"Early stage 2","Early","Endothelial cells 2","Blood & Immune cells 2",17.1679247773799
+"Early stage 2","Early","Endothelial cells 2","Endothelial cells 1",44.3499303541331
+"Early stage 2","Early","Endothelial cells 2","Endothelial cells 2",26.7631109573308
+"Early stage 2","Early","Endothelial cells 2","Endothelial cells 3",33.5396874158682
+"Early stage 2","Early","Endothelial cells 2","Endothelial cells 4",23.0380339820744
+"Early stage 2","Early","Endothelial cells 2","Fibroblast & Stromal cells 1",35.3614103789695
+"Early stage 2","Early","Endothelial cells 2","Fibroblast & Stromal cells 2",29.4189499348977
+"Early stage 2","Early","Endothelial cells 2","Fibroblast & Stromal cells 3",35.401829663192
+"Early stage 2","Early","Endothelial cells 2","Glial cells 1",16.0226701596139
+"Early stage 2","Early","Endothelial cells 2","Glial cells 2",25.5830493319532
+"Early stage 2","Early","Endothelial cells 2","Mural cells",29.8324599836582
+"Early stage 2","Early","Endothelial cells 3","Blood & Immune cells 1",33.8291398032699
+"Early stage 2","Early","Endothelial cells 3","Blood & Immune cells 2",19.9963638195467
+"Early stage 2","Early","Endothelial cells 3","Endothelial cells 1",51.0592431563746
+"Early stage 2","Early","Endothelial cells 3","Endothelial cells 2",31.096449328566
+"Early stage 2","Early","Endothelial cells 3","Endothelial cells 3",37.8432557107249
+"Early stage 2","Early","Endothelial cells 3","Endothelial cells 4",28.0721435368377
+"Early stage 2","Early","Endothelial cells 3","Fibroblast & Stromal cells 1",44.0193315152172
+"Early stage 2","Early","Endothelial cells 3","Fibroblast & Stromal cells 2",37.1854357926974
+"Early stage 2","Early","Endothelial cells 3","Fibroblast & Stromal cells 3",41.550496621954
+"Early stage 2","Early","Endothelial cells 3","Glial cells 1",18.8091991491658
+"Early stage 2","Early","Endothelial cells 3","Glial cells 2",30.5741662676542
+"Early stage 2","Early","Endothelial cells 3","Mural cells",33.5570131606668
+"Early stage 2","Early","Endothelial cells 4","Blood & Immune cells 1",25.5361676320096
+"Early stage 2","Early","Endothelial cells 4","Blood & Immune cells 2",14.6286487064955
+"Early stage 2","Early","Endothelial cells 4","Endothelial cells 1",37.1492568483553
+"Early stage 2","Early","Endothelial cells 4","Endothelial cells 2",21.9715386686192
+"Early stage 2","Early","Endothelial cells 4","Endothelial cells 3",27.63869769543
+"Early stage 2","Early","Endothelial cells 4","Endothelial cells 4",20.2699374632243
+"Early stage 2","Early","Endothelial cells 4","Fibroblast & Stromal cells 1",32.0645312236813
+"Early stage 2","Early","Endothelial cells 4","Fibroblast & Stromal cells 2",26.9942836641359
+"Early stage 2","Early","Endothelial cells 4","Fibroblast & Stromal cells 3",30.193936732644
+"Early stage 2","Early","Endothelial cells 4","Glial cells 1",13.8375538855728
+"Early stage 2","Early","Endothelial cells 4","Glial cells 2",22.5809382355893
+"Early stage 2","Early","Endothelial cells 4","Mural cells",25.2034278466682
+"Early stage 2","Early","Fibroblast & Stromal cells 1","Blood & Immune cells 1",20.0655936600007
+"Early stage 2","Early","Fibroblast & Stromal cells 1","Blood & Immune cells 2",14.4302491461451
+"Early stage 2","Early","Fibroblast & Stromal cells 1","Endothelial cells 1",36.2153646973421
+"Early stage 2","Early","Fibroblast & Stromal cells 1","Endothelial cells 2",23.3981545805547
+"Early stage 2","Early","Fibroblast & Stromal cells 1","Endothelial cells 3",26.8105174449029
+"Early stage 2","Early","Fibroblast & Stromal cells 1","Endothelial cells 4",20.9093341955541
+"Early stage 2","Early","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 1",34.4194610123268
+"Early stage 2","Early","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 2",30.3335617612876
+"Early stage 2","Early","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 3",30.4497838509363
+"Early stage 2","Early","Fibroblast & Stromal cells 1","Glial cells 1",15.11422910655
+"Early stage 2","Early","Fibroblast & Stromal cells 1","Glial cells 2",23.0515583288595
+"Early stage 2","Early","Fibroblast & Stromal cells 1","Mural cells",22.5431525305742
+"Early stage 2","Early","Fibroblast & Stromal cells 2","Blood & Immune cells 1",22.6719579630904
+"Early stage 2","Early","Fibroblast & Stromal cells 2","Blood & Immune cells 2",16.4055290579562
+"Early stage 2","Early","Fibroblast & Stromal cells 2","Endothelial cells 1",41.0141760085266
+"Early stage 2","Early","Fibroblast & Stromal cells 2","Endothelial cells 2",27.0798577092176
+"Early stage 2","Early","Fibroblast & Stromal cells 2","Endothelial cells 3",30.3210538462372
+"Early stage 2","Early","Fibroblast & Stromal cells 2","Endothelial cells 4",23.6827363584854
+"Early stage 2","Early","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 1",39.2385756679271
+"Early stage 2","Early","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 2",34.5017483817003
+"Early stage 2","Early","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 3",34.4072934097853
+"Early stage 2","Early","Fibroblast & Stromal cells 2","Glial cells 1",16.6501353174069
+"Early stage 2","Early","Fibroblast & Stromal cells 2","Glial cells 2",26.3064775555773
+"Early stage 2","Early","Fibroblast & Stromal cells 2","Mural cells",25.2743464429979
+"Early stage 2","Early","Fibroblast & Stromal cells 3","Blood & Immune cells 1",24.3835185828435
+"Early stage 2","Early","Fibroblast & Stromal cells 3","Blood & Immune cells 2",15.7682301414409
+"Early stage 2","Early","Fibroblast & Stromal cells 3","Endothelial cells 1",40.0181158096898
+"Early stage 2","Early","Fibroblast & Stromal cells 3","Endothelial cells 2",25.3735131027008
+"Early stage 2","Early","Fibroblast & Stromal cells 3","Endothelial cells 3",29.697401137595
+"Early stage 2","Early","Fibroblast & Stromal cells 3","Endothelial cells 4",22.6770173182571
+"Early stage 2","Early","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 1",36.5589369581213
+"Early stage 2","Early","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 2",32.0945766780416
+"Early stage 2","Early","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 3",32.9561996701333
+"Early stage 2","Early","Fibroblast & Stromal cells 3","Glial cells 1",16.0242066641963
+"Early stage 2","Early","Fibroblast & Stromal cells 3","Glial cells 2",25.1457652615435
+"Early stage 2","Early","Fibroblast & Stromal cells 3","Mural cells",25.7713980295788
+"Early stage 2","Early","Glial cells 1","Blood & Immune cells 1",14.7684077871042
+"Early stage 2","Early","Glial cells 1","Blood & Immune cells 2",12.2811428811715
+"Early stage 2","Early","Glial cells 1","Endothelial cells 1",30.4208901328268
+"Early stage 2","Early","Glial cells 1","Endothelial cells 2",16.1255983021735
+"Early stage 2","Early","Glial cells 1","Endothelial cells 3",19.8447003722072
+"Early stage 2","Early","Glial cells 1","Endothelial cells 4",17.2351664197389
+"Early stage 2","Early","Glial cells 1","Fibroblast & Stromal cells 1",30.0724592100374
+"Early stage 2","Early","Glial cells 1","Fibroblast & Stromal cells 2",25.0897084520452
+"Early stage 2","Early","Glial cells 1","Fibroblast & Stromal cells 3",27.653374477087
+"Early stage 2","Early","Glial cells 1","Glial cells 1",11.7954974713477
+"Early stage 2","Early","Glial cells 1","Glial cells 2",20.1437098553629
+"Early stage 2","Early","Glial cells 1","Mural cells",17.8860668423068
+"Early stage 2","Early","Glial cells 2","Blood & Immune cells 1",22.7818562041768
+"Early stage 2","Early","Glial cells 2","Blood & Immune cells 2",19.9502283478597
+"Early stage 2","Early","Glial cells 2","Endothelial cells 1",50.171940038544
+"Early stage 2","Early","Glial cells 2","Endothelial cells 2",28.2395253250146
+"Early stage 2","Early","Glial cells 2","Endothelial cells 3",33.2910705131262
+"Early stage 2","Early","Glial cells 2","Endothelial cells 4",28.6114220061828
+"Early stage 2","Early","Glial cells 2","Fibroblast & Stromal cells 1",49.3284947721696
+"Early stage 2","Early","Glial cells 2","Fibroblast & Stromal cells 2",42.5464708982087
+"Early stage 2","Early","Glial cells 2","Fibroblast & Stromal cells 3",45.2077961563658
+"Early stage 2","Early","Glial cells 2","Glial cells 1",19.6338007791713
+"Early stage 2","Early","Glial cells 2","Glial cells 2",32.0542698593702
+"Early stage 2","Early","Glial cells 2","Mural cells",29.4783206273463
+"Early stage 2","Early","Mural cells","Blood & Immune cells 1",19.4102399002595
+"Early stage 2","Early","Mural cells","Blood & Immune cells 2",16.7149986380299
+"Early stage 2","Early","Mural cells","Endothelial cells 1",41.6083135419218
+"Early stage 2","Early","Mural cells","Endothelial cells 2",27.8870565356386
+"Early stage 2","Early","Mural cells","Endothelial cells 3",29.5500374994651
+"Early stage 2","Early","Mural cells","Endothelial cells 4",24.1573148012834
+"Early stage 2","Early","Mural cells","Fibroblast & Stromal cells 1",40.7745837715121
+"Early stage 2","Early","Mural cells","Fibroblast & Stromal cells 2",35.5566242912611
+"Early stage 2","Early","Mural cells","Fibroblast & Stromal cells 3",35.9421992670417
+"Early stage 2","Early","Mural cells","Glial cells 1",15.7609550752392
+"Early stage 2","Early","Mural cells","Glial cells 2",26.2660497010159
+"Early stage 2","Early","Mural cells","Mural cells",23.9814310272894
+"Healthy 2","Healthy","Blood & Immune cells 1","Blood & Immune cells 1",40.8212705682118
+"Healthy 2","Healthy","Blood & Immune cells 1","Blood & Immune cells 2",25.4102193667186
+"Healthy 2","Healthy","Blood & Immune cells 1","Endothelial cells 1",47.2058942838076
+"Healthy 2","Healthy","Blood & Immune cells 1","Endothelial cells 2",29.3903086072511
+"Healthy 2","Healthy","Blood & Immune cells 1","Endothelial cells 3",35.0832918149623
+"Healthy 2","Healthy","Blood & Immune cells 1","Endothelial cells 4",28.4400777616899
+"Healthy 2","Healthy","Blood & Immune cells 1","Fibroblast & Stromal cells 1",35.9387061880971
+"Healthy 2","Healthy","Blood & Immune cells 1","Fibroblast & Stromal cells 2",34.8524554601859
+"Healthy 2","Healthy","Blood & Immune cells 1","Fibroblast & Stromal cells 3",38.8314162814389
+"Healthy 2","Healthy","Blood & Immune cells 1","Glial cells 1",25.1831666941695
+"Healthy 2","Healthy","Blood & Immune cells 1","Glial cells 2",30.1736458030769
+"Healthy 2","Healthy","Blood & Immune cells 1","Mural cells",27.6860639277622
+"Healthy 2","Healthy","Blood & Immune cells 2","Blood & Immune cells 1",30.3886828902767
+"Healthy 2","Healthy","Blood & Immune cells 2","Blood & Immune cells 2",20.951340556809
+"Healthy 2","Healthy","Blood & Immune cells 2","Endothelial cells 1",38.2055896640933
+"Healthy 2","Healthy","Blood & Immune cells 2","Endothelial cells 2",26.2353597113118
+"Healthy 2","Healthy","Blood & Immune cells 2","Endothelial cells 3",28.1160841474594
+"Healthy 2","Healthy","Blood & Immune cells 2","Endothelial cells 4",22.1554523610827
+"Healthy 2","Healthy","Blood & Immune cells 2","Fibroblast & Stromal cells 1",30.706970724459
+"Healthy 2","Healthy","Blood & Immune cells 2","Fibroblast & Stromal cells 2",29.3353906308708
+"Healthy 2","Healthy","Blood & Immune cells 2","Fibroblast & Stromal cells 3",32.2700255524193
+"Healthy 2","Healthy","Blood & Immune cells 2","Glial cells 1",19.4920740447517
+"Healthy 2","Healthy","Blood & Immune cells 2","Glial cells 2",24.4637904085841
+"Healthy 2","Healthy","Blood & Immune cells 2","Mural cells",22.3355106810594
+"Healthy 2","Healthy","Endothelial cells 1","Blood & Immune cells 1",60.3810631848069
+"Healthy 2","Healthy","Endothelial cells 1","Blood & Immune cells 2",36.6779562530269
+"Healthy 2","Healthy","Endothelial cells 1","Endothelial cells 1",71.076013481707
+"Healthy 2","Healthy","Endothelial cells 1","Endothelial cells 2",45.4234682810768
+"Healthy 2","Healthy","Endothelial cells 1","Endothelial cells 3",52.6578098962881
+"Healthy 2","Healthy","Endothelial cells 1","Endothelial cells 4",39.4473345180813
+"Healthy 2","Healthy","Endothelial cells 1","Fibroblast & Stromal cells 1",54.0469970259245
+"Healthy 2","Healthy","Endothelial cells 1","Fibroblast & Stromal cells 2",52.5808602682131
+"Healthy 2","Healthy","Endothelial cells 1","Fibroblast & Stromal cells 3",57.702913948197
+"Healthy 2","Healthy","Endothelial cells 1","Glial cells 1",34.9022151516839
+"Healthy 2","Healthy","Endothelial cells 1","Glial cells 2",44.9752931013463
+"Healthy 2","Healthy","Endothelial cells 1","Mural cells",44.4484404739105
+"Healthy 2","Healthy","Endothelial cells 2","Blood & Immune cells 1",47.3182777366616
+"Healthy 2","Healthy","Endothelial cells 2","Blood & Immune cells 2",24.8198477419124
+"Healthy 2","Healthy","Endothelial cells 2","Endothelial cells 1",51.1474935694615
+"Healthy 2","Healthy","Endothelial cells 2","Endothelial cells 2",33.0410075365632
+"Healthy 2","Healthy","Endothelial cells 2","Endothelial cells 3",38.5405419776856
+"Healthy 2","Healthy","Endothelial cells 2","Endothelial cells 4",26.368678791583
+"Healthy 2","Healthy","Endothelial cells 2","Fibroblast & Stromal cells 1",35.3104912701623
+"Healthy 2","Healthy","Endothelial cells 2","Fibroblast & Stromal cells 2",33.4356174955208
+"Healthy 2","Healthy","Endothelial cells 2","Fibroblast & Stromal cells 3",37.6274339370658
+"Healthy 2","Healthy","Endothelial cells 2","Glial cells 1",21.8401594709594
+"Healthy 2","Healthy","Endothelial cells 2","Glial cells 2",30.9116509726852
+"Healthy 2","Healthy","Endothelial cells 2","Mural cells",31.3592096067716
+"Healthy 2","Healthy","Endothelial cells 3","Blood & Immune cells 1",49.5765614888066
+"Healthy 2","Healthy","Endothelial cells 3","Blood & Immune cells 2",29.2177326572573
+"Healthy 2","Healthy","Endothelial cells 3","Endothelial cells 1",56.9506460758375
+"Healthy 2","Healthy","Endothelial cells 3","Endothelial cells 2",36.0941020877762
+"Healthy 2","Healthy","Endothelial cells 3","Endothelial cells 3",42.159970961397
+"Healthy 2","Healthy","Endothelial cells 3","Endothelial cells 4",30.8284217887423
+"Healthy 2","Healthy","Endothelial cells 3","Fibroblast & Stromal cells 1",42.6599016653292
+"Healthy 2","Healthy","Endothelial cells 3","Fibroblast & Stromal cells 2",40.9785444339179
+"Healthy 2","Healthy","Endothelial cells 3","Fibroblast & Stromal cells 3",45.1635955158297
+"Healthy 2","Healthy","Endothelial cells 3","Glial cells 1",26.2909020184417
+"Healthy 2","Healthy","Endothelial cells 3","Glial cells 2",35.4460477895804
+"Healthy 2","Healthy","Endothelial cells 3","Mural cells",35.4931024349809
+"Healthy 2","Healthy","Endothelial cells 4","Blood & Immune cells 1",39.6151058898252
+"Healthy 2","Healthy","Endothelial cells 4","Blood & Immune cells 2",23.1581772826369
+"Healthy 2","Healthy","Endothelial cells 4","Endothelial cells 1",45.6196133330849
+"Healthy 2","Healthy","Endothelial cells 4","Endothelial cells 2",28.5608866369026
+"Healthy 2","Healthy","Endothelial cells 4","Endothelial cells 3",33.7608824186575
+"Healthy 2","Healthy","Endothelial cells 4","Endothelial cells 4",24.0538986698983
+"Healthy 2","Healthy","Endothelial cells 4","Fibroblast & Stromal cells 1",33.6108574733741
+"Healthy 2","Healthy","Endothelial cells 4","Fibroblast & Stromal cells 2",32.1620024804142
+"Healthy 2","Healthy","Endothelial cells 4","Fibroblast & Stromal cells 3",35.7635543987974
+"Healthy 2","Healthy","Endothelial cells 4","Glial cells 1",20.9278780047948
+"Healthy 2","Healthy","Endothelial cells 4","Glial cells 2",28.8493052267071
+"Healthy 2","Healthy","Endothelial cells 4","Mural cells",28.8637432095621
+"Healthy 2","Healthy","Fibroblast & Stromal cells 1","Blood & Immune cells 1",33.8092224886529
+"Healthy 2","Healthy","Fibroblast & Stromal cells 1","Blood & Immune cells 2",22.0227106803677
+"Healthy 2","Healthy","Fibroblast & Stromal cells 1","Endothelial cells 1",43.0124578040405
+"Healthy 2","Healthy","Fibroblast & Stromal cells 1","Endothelial cells 2",27.9421345359497
+"Healthy 2","Healthy","Fibroblast & Stromal cells 1","Endothelial cells 3",31.8537537439029
+"Healthy 2","Healthy","Fibroblast & Stromal cells 1","Endothelial cells 4",24.2347053015079
+"Healthy 2","Healthy","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 1",33.384908588846
+"Healthy 2","Healthy","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 2",33.5155273405674
+"Healthy 2","Healthy","Fibroblast & Stromal cells 1","Fibroblast & Stromal cells 3",35.4735584806981
+"Healthy 2","Healthy","Fibroblast & Stromal cells 1","Glial cells 1",24.4458159923733
+"Healthy 2","Healthy","Fibroblast & Stromal cells 1","Glial cells 2",27.8581808538
+"Healthy 2","Healthy","Fibroblast & Stromal cells 1","Mural cells",26.9259331200566
+"Healthy 2","Healthy","Fibroblast & Stromal cells 2","Blood & Immune cells 1",39.7793927143614
+"Healthy 2","Healthy","Fibroblast & Stromal cells 2","Blood & Immune cells 2",26.3188588583354
+"Healthy 2","Healthy","Fibroblast & Stromal cells 2","Endothelial cells 1",50.5195530308913
+"Healthy 2","Healthy","Fibroblast & Stromal cells 2","Endothelial cells 2",33.0181289824536
+"Healthy 2","Healthy","Fibroblast & Stromal cells 2","Endothelial cells 3",37.3552580653124
+"Healthy 2","Healthy","Fibroblast & Stromal cells 2","Endothelial cells 4",28.6798038950609
+"Healthy 2","Healthy","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 1",40.0499225975576
+"Healthy 2","Healthy","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 2",39.8962353066149
+"Healthy 2","Healthy","Fibroblast & Stromal cells 2","Fibroblast & Stromal cells 3",42.349131197227
+"Healthy 2","Healthy","Fibroblast & Stromal cells 2","Glial cells 1",26.5275251666794
+"Healthy 2","Healthy","Fibroblast & Stromal cells 2","Glial cells 2",32.8111061300048
+"Healthy 2","Healthy","Fibroblast & Stromal cells 2","Mural cells",31.3152030076571
+"Healthy 2","Healthy","Fibroblast & Stromal cells 3","Blood & Immune cells 1",42.8054667648831
+"Healthy 2","Healthy","Fibroblast & Stromal cells 3","Blood & Immune cells 2",31.6346098625466
+"Healthy 2","Healthy","Fibroblast & Stromal cells 3","Endothelial cells 1",57.2422219434247
+"Healthy 2","Healthy","Fibroblast & Stromal cells 3","Endothelial cells 2",34.5612468321013
+"Healthy 2","Healthy","Fibroblast & Stromal cells 3","Endothelial cells 3",41.399732923696
+"Healthy 2","Healthy","Fibroblast & Stromal cells 3","Endothelial cells 4",32.6284872259097
+"Healthy 2","Healthy","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 1",48.2781514240198
+"Healthy 2","Healthy","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 2",46.7675277854048
+"Healthy 2","Healthy","Fibroblast & Stromal cells 3","Fibroblast & Stromal cells 3",51.8431750148768
+"Healthy 2","Healthy","Fibroblast & Stromal cells 3","Glial cells 1",33.4764889220794
+"Healthy 2","Healthy","Fibroblast & Stromal cells 3","Glial cells 2",37.7149906624517
+"Healthy 2","Healthy","Fibroblast & Stromal cells 3","Mural cells",36.1508375041914
+"Healthy 2","Healthy","Glial cells 1","Blood & Immune cells 1",29.2875473123386
+"Healthy 2","Healthy","Glial cells 1","Blood & Immune cells 2",22.7161164834227
+"Healthy 2","Healthy","Glial cells 1","Endothelial cells 1",39.1778248950618
+"Healthy 2","Healthy","Glial cells 1","Endothelial cells 2",22.5222292106437
+"Healthy 2","Healthy","Glial cells 1","Endothelial cells 3",28.0867932547317
+"Healthy 2","Healthy","Glial cells 1","Endothelial cells 4",22.8387426816294
+"Healthy 2","Healthy","Glial cells 1","Fibroblast & Stromal cells 1",34.0191902402161
+"Healthy 2","Healthy","Glial cells 1","Fibroblast & Stromal cells 2",32.6614580721203
+"Healthy 2","Healthy","Glial cells 1","Fibroblast & Stromal cells 3",37.0597242257051
+"Healthy 2","Healthy","Glial cells 1","Glial cells 1",19.7299153618792
+"Healthy 2","Healthy","Glial cells 1","Glial cells 2",27.7128841548481
+"Healthy 2","Healthy","Glial cells 1","Mural cells",24.601249529385
+"Healthy 2","Healthy","Glial cells 2","Blood & Immune cells 1",41.6509301967036
+"Healthy 2","Healthy","Glial cells 2","Blood & Immune cells 2",33.2879484304252
+"Healthy 2","Healthy","Glial cells 2","Endothelial cells 1",58.284866555561
+"Healthy 2","Healthy","Glial cells 2","Endothelial cells 2",34.4102548031143
+"Healthy 2","Healthy","Glial cells 2","Endothelial cells 3",42.0895655851041
+"Healthy 2","Healthy","Glial cells 2","Endothelial cells 4",34.4194696893903
+"Healthy 2","Healthy","Glial cells 2","Fibroblast & Stromal cells 1",51.5733303163585
+"Healthy 2","Healthy","Glial cells 2","Fibroblast & Stromal cells 2",50.2248090941592
+"Healthy 2","Healthy","Glial cells 2","Fibroblast & Stromal cells 3",55.141596749798
+"Healthy 2","Healthy","Glial cells 2","Glial cells 1",30.3738054635491
+"Healthy 2","Healthy","Glial cells 2","Glial cells 2",39.3094673666344
+"Healthy 2","Healthy","Glial cells 2","Mural cells",36.7650248970772
+"Healthy 2","Healthy","Mural cells","Blood & Immune cells 1",39.3074808254714
+"Healthy 2","Healthy","Mural cells","Blood & Immune cells 2",29.7351711990192
+"Healthy 2","Healthy","Mural cells","Endothelial cells 1",53.8250092950789
+"Healthy 2","Healthy","Mural cells","Endothelial cells 2",35.1076994591916
+"Healthy 2","Healthy","Mural cells","Endothelial cells 3",38.9072544315753
+"Healthy 2","Healthy","Mural cells","Endothelial cells 4",31.2840173297023
+"Healthy 2","Healthy","Mural cells","Fibroblast & Stromal cells 1",46.2884017381744
+"Healthy 2","Healthy","Mural cells","Fibroblast & Stromal cells 2",44.8240300326171
+"Healthy 2","Healthy","Mural cells","Fibroblast & Stromal cells 3",47.5807920505196
+"Healthy 2","Healthy","Mural cells","Glial cells 1",26.3693329640911
+"Healthy 2","Healthy","Mural cells","Glial cells 2",35.0607034902025
+"Healthy 2","Healthy","Mural cells","Mural cells",32.4753501240418
