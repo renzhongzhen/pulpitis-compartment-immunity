@@ -12,7 +12,7 @@ This repository accompanies the Scientific Reports submission. All analyses are 
 
 The complete, hash-manifested release is [`pulpitis_compartment_immunity_code_20261120.zip`](pulpitis_compartment_immunity_code_20261120.zip). It contains 42 R scripts, 2 Python figure/manuscript builders, 75 CSV result tables, `MANIFEST_SHA256.csv`, `CODE_VALIDATION.md` and `package_versions.csv`.
 
-SHA-256: `be9b6b2a964fa964964b54213fb2d0f2ba411ba9d563c740de73b73a91e1105a`
+SHA-256: `c4ece488efec9d83f403042f54284691073b8668096d3115ccef12d0189dd58b`
 
 The `R/` and `results/` directories provide a browsable copy of the release layout. The ZIP is authoritative for the final versions, including the scripts added during the final Figure 7 and patient-level revisions.
 
@@ -87,12 +87,11 @@ Scripts retain the original Windows absolute paths for provenance. Before rerunn
 ## 7. Release and citation
 
 Repository: https://github.com/renzhongzhen/pulpitis-compartment-immunity  
-Complete release archive: `pulpitis_compartment_immunity_code_20261120.zip`  
-Archive DOI: https://doi.org/10.5281/zenodo.24370289
+Complete release archive: `pulpitis_compartment_immunity_code_20261120.zip`
 
-Code is provided under the MIT License (`LICENSE`). Public datasets remain subject to their original submitters' terms. If using this release, cite the manuscript and the specific archived software version.
+Code is provided under the MIT License (`LICENSE`). Public datasets remain subject to their original submitters' terms. If using this release, cite the manuscript and the specific release archive.
 
 ```
 Ren Z. Compartment-resolved immunity in irreversible pulpitis: analysis code and result tables.
-Zenodo. https://doi.org/10.5281/zenodo.24370289
+GitHub repository. https://github.com/renzhongzhen/pulpitis-compartment-immunity
 ```
