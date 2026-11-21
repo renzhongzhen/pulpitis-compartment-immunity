@@ -12,9 +12,9 @@ This repository accompanies the Scientific Reports submission. All analyses are 
 
 The complete, hash-manifested release is [`pulpitis_compartment_immunity_code_20261120.zip`](pulpitis_compartment_immunity_code_20261120.zip). It contains 42 R scripts, 2 Python figure/manuscript builders, 75 CSV result tables, `MANIFEST_SHA256.csv`, `CODE_VALIDATION.md` and `package_versions.csv`.
 
-SHA-256: `c4ece488efec9d83f403042f54284691073b8668096d3115ccef12d0189dd58b`
+SHA-256: `866a75cc5d16b287e2611b93971b5487b7348b54da75dcf581b71e4c07184321`
 
-The `R/` and `results/` directories provide a browsable copy of the release layout. The ZIP is authoritative for the final versions, including the scripts added during the final Figure 7 and patient-level revisions.
+The `R/` and `results/` directories contain an earlier browsable copy of the release layout. The ZIP is authoritative and contains the final 42 scripts and 75 result tables, including those added during the final Figure 7 and patient-level revisions.
 
 ## 2. Public datasets
 
@@ -71,7 +71,7 @@ Figure assembly is at 300 dpi. The drug-signature panel is a supplementary direc
 - The total-endothelial advanced-minus-healthy effect is +27.235 percentage points (95% CI −5.120 to 59.591; Welch P = 0.08234). Four patients per stage limit power.
 - In the primary M1/M2 marker set, M1 and M2 increase together in both bulk cohorts, but M1-minus-M2 does not change significantly (GSE77459 P = 0.699; GSE92681 P = 0.755). With the alternative marker set, the corresponding P values are 0.041 and 0.106. The result is therefore marker-set dependent and is not described as a consistent global polarisation switch.
 - E-MTAB myeloid M1-minus-M2 is not significant with either marker set (P = 0.122 and 0.885). GSE185222 also shows marker-set dependence; activation, interferon/antigen-presentation and M2-core programmes are reported alongside the alternative-set contrast.
-- All 118 E-MTAB transcription factors were rechecked with stage-wise Kruskal–Wallis tests and Benjamini–Hochberg correction. STAT1 and MYC have nominal P = 0.04978707; the minimum BH q is 0.3894635 and no TF passes q < 0.05. The complete recalculation is `results/singlecell/TF_stage_KW_BH_recalculated.csv`.
+- All 118 E-MTAB transcription factors were rechecked with stage-wise Kruskal–Wallis tests and Benjamini–Hochberg correction. STAT1 and MYC have nominal P = 0.04978707; the minimum BH q is 0.3894635 and no TF passes q < 0.05. The complete recalculation is `results/singlecell/TF_stage_KW_BH_recalculated.csv` inside the release ZIP.
 - ROC estimates are apparent, in-sample estimates from the same 12 discovery samples used for candidate selection. Among genes displayed in Supplementary Fig. 6, TNF has AUC = 0.8888889 and the other displayed genes have AUC = 1.00. These values are not diagnostic performance estimates.
 - The PBM analysis averages two Ct replicates per group and uses 72 non-missing paired LPS/PBM mean DeltaCt targets. It applies no replicate-concordance exclusion and no replicate-level differential-expression inference. Thirty-two of 72 targets reverse direction (exact binomial P = 0.41); this panel is descriptive only.
 - Drug-signature enrichment is a pathway-recovery positive control, not evidence of drug efficacy.
@@ -95,3 +95,4 @@ Code is provided under the MIT License (`LICENSE`). Public datasets remain subje
 Ren Z. Compartment-resolved immunity in irreversible pulpitis: analysis code and result tables.
 GitHub repository. https://github.com/renzhongzhen/pulpitis-compartment-immunity
 ```
+
